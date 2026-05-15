@@ -1,6 +1,15 @@
 import { LoginForm } from "./login-form";
 
-export default function LoginPage() {
+function safeNextPath(next: string | undefined) {
+  if (!next || !next.startsWith("/") || next.startsWith("//")) return "/";
+  return next;
+}
+
+type SP = Promise<{ next?: string }>;
+
+export default async function LoginPage({ searchParams }: { searchParams: SP }) {
+  const sp = await searchParams;
+
   return (
     <div className="mx-auto max-w-md px-6 py-16">
       <div className="text-center mb-8">
@@ -11,7 +20,7 @@ export default function LoginPage() {
           Supabase email confirmation is turned off.
         </p>
       </div>
-      <LoginForm />
+      <LoginForm nextPath={safeNextPath(sp.next)} />
     </div>
   );
 }

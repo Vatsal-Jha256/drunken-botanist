@@ -4,7 +4,11 @@ import { useState } from "react";
 import { createClient } from "@/lib/supabase/client";
 
 type AuthMode = "sign-in" | "sign-up";
-type Status = "idle" | "submitting" | "confirmation" | "error";
+type Status = "idle" | "submitting" | "confirmation" | "reset-sent" | "error";
+
+type Props = {
+  nextPath: string;
+};
 
 function authErrorMessage(message: string) {
   const lower = message.toLowerCase();
@@ -20,7 +24,7 @@ function authErrorMessage(message: string) {
   return message;
 }
 
-export function LoginForm() {
+export function LoginForm({ nextPath }: Props) {
   const [mode, setMode] = useState<AuthMode>("sign-in");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -51,7 +55,7 @@ export function LoginForm() {
         setErrorMsg(authErrorMessage(error.message));
         return;
       }
-      window.location.assign("/");
+      window.location.assign(nextPath);
       return;
     }
 
@@ -70,11 +74,38 @@ export function LoginForm() {
     }
 
     if (data.session) {
-      window.location.assign("/");
+      window.location.assign(nextPath);
       return;
     }
 
     setStatus("confirmation");
+  }
+
+  async function onForgotPassword() {
+    if (!email) {
+      setStatus("error");
+      setErrorMsg("Enter your email first, then request a reset link.");
+      return;
+    }
+
+    setStatus("submitting");
+    setErrorMsg(null);
+
+    const supabase = createClient();
+    const origin =
+      typeof window !== "undefined" ? window.location.origin : "http://localhost:3000";
+    const resetNext = encodeURIComponent("/account/password?reset=1");
+    const { error } = await supabase.auth.resetPasswordForEmail(email, {
+      redirectTo: `${origin}/auth/callback?next=${resetNext}`,
+    });
+
+    if (error) {
+      setStatus("error");
+      setErrorMsg(authErrorMessage(error.message));
+      return;
+    }
+
+    setStatus("reset-sent");
   }
 
   if (status === "confirmation") {
@@ -86,6 +117,25 @@ export function LoginForm() {
           project, disable <strong>Confirm email</strong> in Supabase Auth to avoid auth
           email rate limits.
         </p>
+      </div>
+    );
+  }
+
+  if (status === "reset-sent") {
+    return (
+      <div className="specimen-card rounded-md p-6 text-center">
+        <p className="font-serif text-xl text-ink">Check your inbox.</p>
+        <p className="text-sm text-ink-soft mt-2">
+          We sent a password reset link to <strong>{email}</strong>. Open it, then choose a
+          password on the account page.
+        </p>
+        <button
+          type="button"
+          onClick={() => setStatus("idle")}
+          className="mt-4 text-xs smallcaps text-ink-soft hover:text-ink"
+        >
+          Back to sign in
+        </button>
       </div>
     );
   }
@@ -157,6 +207,17 @@ export function LoginForm() {
             ? "Sign in"
             : "Create account"}
       </button>
+
+      {mode === "sign-in" && (
+        <button
+          type="button"
+          onClick={onForgotPassword}
+          disabled={status === "submitting"}
+          className="w-full text-xs smallcaps text-ink-soft hover:text-ink disabled:opacity-60"
+        >
+          Forgot password?
+        </button>
+      )}
 
       {errorMsg && <p className="text-burgundy text-xs">{errorMsg}</p>}
     </form>

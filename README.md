@@ -13,6 +13,7 @@ Live: https://drunken-botanist.vercel.app
 - **My Bar** — checklist of every ingredient; persists to your account; powers "what can I make tonight"
 - **Notebook** — cocktail tasting notes with ratings, saved botanicals, and lightweight botanical field notes for real-world observations
 - **Owner-only Library** — admin accounts get a private reading room with a protected reader, bookmarks, and saved snippets.
+- **Account password tools** — signed-in users can set/change a password; logged-out users can request a reset link.
 
 ## Stack
 
@@ -86,6 +87,7 @@ app/                 routes (App Router)
   calculator/        inventory → party menu scoring
   bar/               "what can I make tonight"
   favorites/         saved cocktails + observations
+  account/password/  set/change password after sign-in or reset
   library/           OWNER-ONLY: protected reader + private notes
   login/             email/password sign-in + sign-up
   auth/callback/     PKCE code exchange for optional email confirmation

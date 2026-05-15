@@ -60,6 +60,9 @@ export function HeaderNav({ signedIn, isOwner }: Props) {
           <Link href="/favorites" onClick={closeDrawer} className="hover:text-ink whitespace-nowrap">
             Notebook
           </Link>
+          <Link href="/account/password" onClick={closeDrawer} className="hover:text-ink whitespace-nowrap">
+            Account
+          </Link>
           {isOwner && (
             <Link href="/library" onClick={closeDrawer} className="hover:text-ink text-burgundy whitespace-nowrap">
               Library
