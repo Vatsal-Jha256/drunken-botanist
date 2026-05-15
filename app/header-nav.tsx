@@ -1,7 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { useState, useEffect } from "react";
+import { useCallback, useEffect, useRef, useState } from "react";
+import { createPortal } from "react-dom";
 
 type Props = {
   signedIn: boolean;
@@ -10,7 +11,15 @@ type Props = {
 
 export function HeaderNav({ signedIn, isOwner }: Props) {
   const [open, setOpen] = useState(false);
+  const [drawerTop, setDrawerTop] = useState(0);
+  const menuButtonRef = useRef<HTMLButtonElement>(null);
   const closeDrawer = () => setOpen(false);
+
+  const measureDrawerTop = useCallback(() => {
+    const header = menuButtonRef.current?.closest("header");
+    const bottom = header?.getBoundingClientRect().bottom ?? 0;
+    setDrawerTop(Math.max(0, Math.ceil(bottom)));
+  }, []);
 
   // lock body scroll while the drawer is open
   useEffect(() => {
@@ -20,6 +29,17 @@ export function HeaderNav({ signedIn, isOwner }: Props) {
       document.body.style.overflow = "";
     };
   }, [open]);
+
+  useEffect(() => {
+    if (!open) return;
+    measureDrawerTop();
+    window.addEventListener("resize", measureDrawerTop);
+    window.visualViewport?.addEventListener("resize", measureDrawerTop);
+    return () => {
+      window.removeEventListener("resize", measureDrawerTop);
+      window.visualViewport?.removeEventListener("resize", measureDrawerTop);
+    };
+  }, [measureDrawerTop, open]);
 
   const links = (
     <>
@@ -77,8 +97,12 @@ export function HeaderNav({ signedIn, isOwner }: Props) {
 
       {/* Mobile hamburger */}
       <button
+        ref={menuButtonRef}
         type="button"
-        onClick={() => setOpen((v) => !v)}
+        onClick={() => {
+          measureDrawerTop();
+          setOpen((v) => !v);
+        }}
         aria-expanded={open}
         aria-controls="mobile-drawer"
         aria-label={open ? "Close menu" : "Open menu"}
@@ -104,12 +128,13 @@ export function HeaderNav({ signedIn, isOwner }: Props) {
       </button>
 
       {/* Mobile drawer */}
-      {open && (
+      {open && typeof document !== "undefined" && createPortal(
         <div
           id="mobile-drawer"
-          className="md:hidden fixed inset-x-0 top-[64px] bottom-0 bg-parchment z-40 border-t border-paper-edge/70 overflow-y-auto"
+          style={{ top: drawerTop }}
+          className="md:hidden fixed inset-x-0 bottom-0 z-[60] bg-parchment/98 backdrop-blur border-t border-paper-edge/70 shadow-[0_18px_40px_rgba(50,38,28,0.18)] overflow-y-auto overscroll-contain"
         >
-          <nav className="flex flex-col px-6 py-6 gap-4 text-lg font-serif text-ink">
+          <nav className="mx-auto flex max-w-5xl flex-col px-6 py-6 gap-4 text-lg font-serif text-ink">
             {links}
             <div className="divider-rule my-2" />
             {signedIn ? (
@@ -131,7 +156,8 @@ export function HeaderNav({ signedIn, isOwner }: Props) {
               </Link>
             )}
           </nav>
-        </div>
+        </div>,
+        document.body,
       )}
     </>
   );
