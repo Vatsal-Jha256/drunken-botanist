@@ -7,8 +7,8 @@ export default function LoginPage() {
         <p className="smallcaps text-xs text-ink-soft mb-2">private cellar</p>
         <h1 className="font-serif text-4xl text-ink">Sign in</h1>
         <p className="text-sm text-ink-soft mt-2">
-          We&apos;ll email you a one-click magic link. No passwords, no signup form — your account
-          is created the first time you sign in.
+          Use email and password for the free-tier setup. It avoids magic-link email limits when
+          Supabase email confirmation is turned off.
         </p>
       </div>
       <LoginForm />

@@ -18,7 +18,7 @@ Live: https://drunken-botanist.vercel.app
 
 - Next.js 16 (App Router) + React 19
 - Tailwind v4 with a "vintage herbarium" theme (Fraunces + Inter + Caveat)
-- Supabase (magic-link auth + Postgres with RLS)
+- Supabase (email/password auth + Postgres with RLS)
 - Deploys to Vercel
 
 ## Local dev
@@ -62,8 +62,12 @@ redirect-URL patterns, and pre-push security checks) lives in
 Quick version:
 
 1. **Supabase** — create a free project, run the SQL files in
-   `supabase/migrations/` in order in the SQL editor, enable magic-link email
-   auth, add your local + Vercel URLs to the redirect allow list.
+   `supabase/migrations/` in order in the SQL editor, enable email/password
+   auth, and add your local + Vercel URLs to the redirect allow list.
+   For the free-tier no-SMTP setup, turn **Confirm email** off in
+   Authentication → Providers → Email so sign-ups do not send confirmation
+   emails. If you keep confirmation emails on, configure a custom SMTP provider
+   to avoid the built-in email sender's strict rate limit.
 2. **Vercel** — import the GitHub repo, set three env vars in Project Settings → Environment Variables:
    - `NEXT_PUBLIC_SUPABASE_URL`
    - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
@@ -83,8 +87,8 @@ app/                 routes (App Router)
   bar/               "what can I make tonight"
   favorites/         saved cocktails + observations
   library/           OWNER-ONLY: protected reader + private notes
-  login/             magic-link form
-  auth/callback/     PKCE code exchange
+  login/             email/password sign-in + sign-up
+  auth/callback/     PKCE code exchange for optional email confirmation
   auth/signout/      sign-out route
   api/wikipedia/     server proxy to Wikipedia REST summary
 lib/
