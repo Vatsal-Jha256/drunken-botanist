@@ -1,0 +1,37 @@
+{
+  "name": "drunken-botanist",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "refresh-cocktails": "node scripts/fetch-cocktails.mjs",
+    "enrich-ingredients": "node scripts/enrich-ingredients.mjs",
+    "build-recipes": "node scripts/build-recipes.mjs",
+    "extract-book": "node scripts/extract-book.mjs",
+    "upload-book": "node scripts/upload-book-excerpts.mjs"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.7.0",
+    "@supabase/supabase-js": "^2.45.0",
+    "next": "16.2.6",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "ws": "^8.20.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@types/ws": "^8.18.1",
+    "csv-parse": "^6.2.1",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.6",
+    "pdf-parse": "^1.1.1",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

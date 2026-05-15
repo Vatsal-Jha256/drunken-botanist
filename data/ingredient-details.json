@@ -1,0 +1,2053 @@
+{
+  "applejack": {
+    "name": "Applejack",
+    "description": "Applejack is a strong apple-flavored alcoholic beverage produced from apples, popular in the American colonial period. The name derives from \"jacking\", a term for \"increasing\" (alcohol content) and specifically for \"freeze distilling\", the traditional method of producing the drink.\r\n\r\nIn colonial New Jersey, applejack was used as currency to pay road construction crews during the colonial period, leading to the slang name 'Jersey Lightning'. The oldest licensed applejack distillery in the United",
+    "abv": 40,
+    "type": "Beverage",
+    "alcoholic": true
+  },
+  "grapefruit juice": {
+    "name": "Grapefruit Juice",
+    "description": null,
+    "abv": null,
+    "type": "Juice",
+    "alcoholic": false
+  },
+  "gin": {
+    "name": "Gin",
+    "description": "Gin is a distilled alcoholic drink that derives its predominant flavour from juniper berries (Juniperus communis). Gin is one of the broadest categories of spirits, all of various origins, styles, and flavour profiles, that revolve around juniper as a common ingredient.\r\n\r\nFrom its earliest origins in the Middle Ages, the drink has evolved from a herbal medicine to an object of commerce in the spirits industry. Gin emerged in England after the introduction of the jenever, a Dutch liquor which or",
+    "abv": 40,
+    "type": "Gin",
+    "alcoholic": true
+  },
+  "grand marnier": {
+    "name": "Grand Marnier",
+    "description": "Grand Marnier (French pronunciation: ​[ɡʁɑ̃ maʁnje]) Cordon Rouge is an orange-flavored liqueur created in 1880 by Alexandre Marnier-Lapostolle. It is made from a blend of Cognac brandy, distilled essence of bitter orange, and sugar. Grand Marnier Cordon Rouge is 40% alcohol (70 Proof in UK, 80 Proof in US). Aside from Cordon Rouge, the Grand Marnier line includes other liqueurs, most of which can be consumed \"neat\" as a cordial or a digestif, and can be used in mixed drinks and desserts. In Fra",
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "lemon juice": {
+    "name": "Lemon Juice",
+    "description": null,
+    "abv": null,
+    "type": "Juice",
+    "alcoholic": false
+  },
+  "grenadine": {
+    "name": "Grenadine",
+    "description": "Grenadine is a commonly used, non-alcoholic bar syrup, characterized by a flavour that is both tart and sweet, and by a deep red colour. It is popular as an ingredient in cocktails, both for its flavour and to give a reddish/pink tint to mixed drinks.\r\n\r\nThe name grenadine originated from the French word grenade which means pomegranate, with pomme meaning apple and granate derived from the Italian word for seeds.\r\n\r\nGrenadine was originally prepared from pomegranate juice, sugar, and water.\r\n\r\nA",
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "amaretto": {
+    "name": "Amaretto",
+    "description": "Amaretto (Italian for \"a little bitter\") is a sweet, almond-flavoured, Italian liqueur associated with Saronno, Italy. Various commercial brands are made from a base of apricot pits, almonds, or both.\r\n\r\nWhen served as a beverage, amaretto can be drunk by itself, used as an ingredient to create several popular mixed drinks, or added to coffee. Amaretto is also commonly used in culinary applications.\r\n\r\nThe name amaretto originated as a diminutive of the Italian word amaro, meaning \"bitter\", whic",
+    "abv": 28,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "baileys irish cream": {
+    "name": "Baileys Irish Cream",
+    "description": "Baileys Irish Cream is an Irish whiskey- and cream-based liqueur, made by Gilbeys of Ireland. The trademark is currently owned by Diageo. It has a declared alcohol content of 17% by volume.\r\n\r\nBaileys Irish Cream was created by Gilbeys of Ireland, a division of International Distillers & Vintners, as it searched for something to introduce to the international market. The process of finding a product began in 1971 and it was introduced in 1974 as the first Irish cream on the market. The Baileys n",
+    "abv": 13,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "cognac": {
+    "name": "Cognac",
+    "description": "Cognac (/ˈkɒnjæk/ KON-yak or /ˈkoʊnjæk/ KOHN-yak; French pronunciation: ​[kɔ.ɲak]) is a variety of brandy named after the town of Cognac, France. It is produced in the surrounding wine-growing region in the departments of Charente and Charente-Maritime.\r\n\r\nCognac production falls under French Appellation d'origine contrôlée designation, with production methods and naming required to meet certain legal requirements. Among the specified grapes Ugni blanc, known locally as Saint-Emilion, is most wi",
+    "abv": null,
+    "type": "Brandy",
+    "alcoholic": true
+  },
+  "dark rum": {
+    "name": "Dark Rum",
+    "description": null,
+    "abv": 40,
+    "type": "Rum",
+    "alcoholic": true
+  },
+  "peach nectar": {
+    "name": "Peach Nectar",
+    "description": null,
+    "abv": null,
+    "type": "Juice",
+    "alcoholic": false
+  },
+  "orange juice": {
+    "name": "Orange Juice",
+    "description": null,
+    "abv": null,
+    "type": "Juice",
+    "alcoholic": false
+  },
+  "light rum": {
+    "name": "Light Rum",
+    "description": "Light rums, also referred to as \"silver\" or \"white\" rums, in general, have very little flavor aside from a general sweetness. Light rums are sometimes filtered after aging to remove any colour. The majority of light rums come from Puerto Rico. Their milder flavors make them popular for use in mixed drinks, as opposed to drinking them straight. Light rums are included in some of the most popular cocktails including the Mojito and the Daiquiri.",
+    "abv": null,
+    "type": "Rum",
+    "alcoholic": true
+  },
+  "triple sec": {
+    "name": "Triple Sec",
+    "description": "Triple sec, originally Curaçao triple sec, is a variety of Curaçao liqueur, an orange-flavoured liqueur made from the dried peels of bitter and/or sweet oranges.\r\n\r\nTriple sec may be consumed neat as a digestif or on the rocks, but it is more often used as an ingredient in a variety of cocktails, such as sangria, margarita, Kamikaze, White Lady, Long Island Iced Tea, Sidecar, Skittle Bomb, Corpse Reviver #2, and Cosmopolitan.\r\n\r\nThe Combier distillery claims that triple sec was invented between ",
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "lime juice": {
+    "name": "Lime Juice",
+    "description": null,
+    "abv": null,
+    "type": "Juice",
+    "alcoholic": false
+  },
+  "sugar": {
+    "name": "Sugar",
+    "description": "Sugar is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food.",
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "egg white": {
+    "name": "Egg White",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "mint": {
+    "name": "Mint",
+    "description": "Lamiaceae (/ˌleɪmiˈeɪsiˌaɪ/ or /ˌleɪmiˈeɪsiiː/) or Labiatae is a family of flowering plants commonly known as the mint or deadnettle family. Many of the plants are aromatic in all parts and include widely used culinary herbs, such as basil, mint, rosemary, sage, savory, marjoram, oregano, hyssop, thyme, lavender, and perilla. Some species are shrubs, trees (such as teak), or, rarely, vines. Many members of the family are widely cultivated, not only for their aromatic qualities but also their eas",
+    "abv": null,
+    "type": "Flower",
+    "alcoholic": false
+  },
+  "heavy cream": {
+    "name": "Heavy cream",
+    "description": "Cream is a dairy product composed of the higher-butterfat layer skimmed from the top of milk before homogenization. In un-homogenized milk, the fat, which is less dense, will eventually rise to the top. In the industrial production of cream, this process is accelerated by using centrifuges called \"separators\". In many countries, cream is sold in several grades depending on the total butterfat content. Cream can be dried to a powder for shipment to distant markets. Cream has high levels of satura",
+    "abv": null,
+    "type": "Cream",
+    "alcoholic": false
+  },
+  "milk": {
+    "name": "Milk",
+    "description": "Milk is a white liquid produced by the mammary glands of mammals. It is the primary source of nutrition for infant mammals (including humans who breastfeed) before they are able to digest other types of food. Early-lactation milk contains colostrum, which carries the mother's antibodies to its young and can reduce the risk of many diseases. It contains many other nutrients including protein and lactose.\r\n\r\nAs an agricultural product, milk is extracted from non-human mammals during or soon after ",
+    "abv": null,
+    "type": "Milk",
+    "alcoholic": false
+  },
+  "151 proof rum": {
+    "name": "151 proof rum",
+    "description": "Bacardi 151 is a brand of highly alcoholic rum made by Bacardi Limited of Hamilton, Bermuda. It is named for its alcohol proof level of 151, that is, 75.5% alcohol by volume. This is much higher than typical rum at 35%–40%. Bacardi 151 has been sold in the US since at least 1981.\r\n\r\nAs with all high-alcohol beverages, Bacardi 151 is flammable. Bacardi 151 has multiple warnings on the label of the bottle stating that it should not be ignited or exposed to an open flame. Bottles are also equipped ",
+    "abv": null,
+    "type": "Rum",
+    "alcoholic": true
+  },
+  "wild turkey": {
+    "name": "Wild Turkey",
+    "description": "Wild Turkey is a brand of Kentucky straight bourbon whiskey distilled and bottled by the Austin Nichols division of Campari Group. The distillery is located near Lawrenceburg, Kentucky, United States. It offers tours, and is part of the American Whiskey Trail and the Kentucky Bourbon Trail.\r\n\r\nIn 1891, Thomas Ripy built the Old Hickory Distillery in Tyrone, Kentucky, near Lawrenceburg, on the former site of the Old Moore Distillery. After Prohibition, the Ripy family (Thomas had died in 1902) re",
+    "abv": null,
+    "type": "Whisky",
+    "alcoholic": false
+  },
+  "sweet vermouth": {
+    "name": "Sweet Vermouth",
+    "description": "Vermouth (/vərˈmuːθ/ ver-MOOTH; also UK: /ˈvɜːrməθ/;) is an aromatized, fortified wine flavored with various botanicals (roots, barks, flowers, seeds, herbs, and spices).\r\n\r\nThe modern versions of the beverage were first produced in the mid to late 18th century in Turin, Italy. While vermouth was traditionally used for medicinal purposes, its true claim to fame is as an aperitif, with fashionable cafes in Turin serving it to guests around the clock. However, in the late 19th century it became po",
+    "abv": null,
+    "type": "Fortified Wine",
+    "alcoholic": true
+  },
+  "dry vermouth": {
+    "name": "Dry Vermouth",
+    "description": "Vermouth (/vərˈmuːθ/ ver-MOOTH; also UK: /ˈvɜːrməθ/;) is an aromatized, fortified wine flavored with various botanicals (roots, barks, flowers, seeds, herbs, and spices).\r\n\r\nThe modern versions of the beverage were first produced in the mid to late 18th century in Turin, Italy. While vermouth was traditionally used for medicinal purposes, its true claim to fame is as an aperitif, with fashionable cafes in Turin serving it to guests around the clock. However, in the late 19th century it became po",
+    "abv": null,
+    "type": "Fortified Wine",
+    "alcoholic": true
+  },
+  "soda water": {
+    "name": "Soda Water",
+    "description": null,
+    "abv": null,
+    "type": "Water",
+    "alcoholic": false
+  },
+  "vermouth": {
+    "name": "Vermouth",
+    "description": "Vermouth (/vərˈmuːθ/ ver-MOOTH; also UK: /ˈvɜːrməθ/;[1][2]) is an aromatized, fortified wine flavored with various botanicals (roots, barks, flowers, seeds, herbs, and spices).\r\n\r\nThe modern versions of the beverage were first produced in the mid to late 18th century in Turin, Italy. While vermouth was traditionally used for medicinal purposes, its true claim to fame is as an aperitif, with fashionable cafes in Turin serving it to guests around the clock. However, in the late 19th century it bec",
+    "abv": null,
+    "type": "Fortified Wine",
+    "alcoholic": true
+  },
+  "strawberry schnapps": {
+    "name": "Strawberry Schnapps",
+    "description": "Schnapps (/ʃnɑːps/ or /ʃnæps/) or schnaps is a type of alcoholic beverage that may take several forms, including distilled fruit brandies, herbal liqueurs, infusions, and \"flavored liqueurs\" made by adding fruit syrups, spices, or artificial flavorings to neutral grain spirits.",
+    "abv": null,
+    "type": "Liquor",
+    "alcoholic": true
+  },
+  "cranberry juice": {
+    "name": "Cranberry Juice",
+    "description": "Cranberry juice is the juice of the cranberry. The term, used on its own, usually refers to a sweetened version.\r\n\r\nA cup of standard 100% cranberry juice, amounting to 248 grams or 8 ounces, is a rich source of antioxidants, vitamin C and salicylic acid. It also supplies calcium, magnesium, manganese, phosphorus, and potassium minerals. Cranberry juice is classified as an acidic drink with a typical pH between 2.3 and 2.5.\r\n\r\nIn 2010 a study conducted by the Worcester Polytechnic Institute in M",
+    "abv": null,
+    "type": "Juice",
+    "alcoholic": false
+  },
+  "club soda": {
+    "name": "Club Soda",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "scotch": {
+    "name": "Scotch",
+    "description": "Scotch whisky, often simply called Scotch, is malt whisky or grain whisky made in Scotland. Scotch whisky must be made in a manner specified by law.\r\n\r\nAll Scotch whisky was originally made from malted barley. Commercial distilleries began introducing whisky made from wheat and rye in the late 18th century.[2] Scotch whisky is divided into five distinct categories: single malt Scotch whisky, single grain Scotch whisky, blended malt Scotch whisky (formerly called \"vatted malt\" or \"pure malt\"), bl",
+    "abv": null,
+    "type": "Whisky",
+    "alcoholic": true
+  },
+  "orange bitters": {
+    "name": "Orange Bitters",
+    "description": null,
+    "abv": null,
+    "type": "Bitters",
+    "alcoholic": false
+  },
+  "pineapple juice": {
+    "name": "Pineapple Juice",
+    "description": null,
+    "abv": null,
+    "type": "Juice",
+    "alcoholic": false
+  },
+  "creme de cacao": {
+    "name": "Creme De Cacao",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "light cream": {
+    "name": "Light Cream",
+    "description": null,
+    "abv": null,
+    "type": "Cream",
+    "alcoholic": false
+  },
+  "nutmeg": {
+    "name": "Nutmeg",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "blended whiskey": {
+    "name": "Blended Whiskey",
+    "description": null,
+    "abv": 40,
+    "type": "Whiskey",
+    "alcoholic": true
+  },
+  "bourbon": {
+    "name": "Bourbon",
+    "description": "Bourbon whiskey /bɜːrbən/ is a type of American whiskey: a barrel-aged distilled spirit made primarily from corn. The name is derived from the French Bourbon dynasty, although it is unclear precisely what inspired the whiskey's name (contenders include Bourbon County in Kentucky and Bourbon Street in New Orleans). Bourbon has been distilled since the 18th century. The use of the term \"bourbon\" for the whiskey has been traced to the 1820s, and the term began to be used consistently in Kentucky in",
+    "abv": null,
+    "type": "Whiskey",
+    "alcoholic": true
+  },
+  "blackberry brandy": {
+    "name": "Blackberry Brandy",
+    "description": null,
+    "abv": null,
+    "type": "Brandy",
+    "alcoholic": true
+  },
+  "lemon peel": {
+    "name": "Lemon Peel",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "kahlua": {
+    "name": "Kahlua",
+    "description": "Kahlúa is a coffee-flavored liqueur from Mexico. The drink contains rum, sugar, vanilla bean, and Arabica coffee.\r\n\r\nPedro Domecq began producing Kahlúa in 1936. It was named Kahlúa, meaning \"House of the Acolhua people\" in the Veracruz Nahuatl language spoken before the Spanish Conquest. Kahlúa was Hispanicized as Ulúa, forming the name of the modern San Juan de Ulúa fortress.\r\n\r\nThe company merged in 1994 with Allied Lyons to become Allied Domecq. In turn, that company was partially acquired i",
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "campari": {
+    "name": "Campari",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "orange peel": {
+    "name": "Orange Peel",
+    "description": null,
+    "abv": null,
+    "type": "Fruit",
+    "alcoholic": false
+  },
+  "apple juice": {
+    "name": "Apple Juice",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "maraschino cherry": {
+    "name": "Maraschino Cherry",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "bitters": {
+    "name": "Bitters",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "absolut vodka": {
+    "name": "Absolut Vodka",
+    "description": "Absolut Vodka is a brand of vodka, produced near Åhus, in southern Sweden. Absolut is owned by French group Pernod Ricard; they bought Absolut for €5.63 billion in 2008 from the Swedish state. Absolut is the third largest brand of alcoholic spirits in the world after Bacardi and Smirnoff, and is sold in 126 countries.",
+    "abv": 40,
+    "type": "Vodka",
+    "alcoholic": true
+  },
+  "tonic water": {
+    "name": "Tonic Water",
+    "description": "Tonic water (or Indian tonic water) is a carbonated soft drink in which quinine is dissolved. Originally used as a prophylactic against malaria, tonic water usually now has a significantly lower quinine content and is consumed for its distinctive bitter flavour. It is often used in mixed drinks, particularly in gin and tonic.\r\n\r\nThe quinine was added to the drink as a prophylactic against malaria, since it was originally intended for consumption in tropical areas of South Asia and Africa, where ",
+    "abv": null,
+    "type": "Soft Drink",
+    "alcoholic": false
+  },
+  "crown royal": {
+    "name": "Crown Royal",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "cream": {
+    "name": "Cream",
+    "description": null,
+    "abv": null,
+    "type": "Cream",
+    "alcoholic": false
+  },
+  "vodka": {
+    "name": "Vodka",
+    "description": "Vodka is a distilled beverage composed primarily of water and ethanol, sometimes with traces of impurities and flavorings. Traditionally, vodka is made by the distillation of fermented cereal grains or potatoes, though some modern brands use other substances, such as fruits or sugar.\r\n\r\nSince the 1890s, the standard Polish, Russian, Belarusian, Ukrainian, Estonian, Latvian, Lithuanian and Czech vodkas are 40% alcohol by volume ABV (80 US proof), a percentage that is widely misattributed to Dmitr",
+    "abv": 40,
+    "type": "Vodka",
+    "alcoholic": true
+  },
+  "pisang ambon": {
+    "name": "Pisang Ambon",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "lemonade": {
+    "name": "Lemonade",
+    "description": "Lemonade is any of various sweetened beverages found around the world, all characterized by lemon flavour.\r\n\r\nMost lemonade varieties can be separated into two distinct types: cloudy and clear; each is known simply as \"lemonade\" (or a cognate) in countries where dominant. Cloudy lemonade, generally found in North America and India, is a traditionally homemade drink made with lemon juice, water, and sweetener such as cane sugar or honey. Found in the United Kingdom, Ireland, South Africa, Austral",
+    "abv": null,
+    "type": "Soft Drink",
+    "alcoholic": false
+  },
+  "maraschino liqueur": {
+    "name": "Maraschino Liqueur",
+    "description": "Maraschino (/ˌmærəˈskiːnoʊ/ marr-ə-SKEE-noh) is a liqueur obtained from the distillation of Marasca cherries. The small, slightly sour fruit of the Tapiwa cherry tree (Prunus cerasus var. marasca), which grows wild along parts of the Dalmatian coast, lends the liqueur its unique aroma.",
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "sambuca": {
+    "name": "Sambuca",
+    "description": "Sambuca (Italian pronunciation: [samˈbuːka]) is an Italian anise-flavoured, usually colourless, liqueur. Its most common variety is often referred to as white sambuca to differentiate it from other varieties that are deep blue in colour (black sambuca) or bright red (red sambuca). Like other anise-flavoured liqueurs, the ouzo effect is sometimes observed when combined with water.\r\n\r\nSambuca is flavoured with essential oils obtained from star anise, or less commonly, green anise. Other spices suc",
+    "abv": 38,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "vanilla ice-cream": {
+    "name": "Vanilla Ice-Cream",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "rum": {
+    "name": "Rum",
+    "description": "Rum is a distilled alcoholic beverage made from sugarcane byproducts, such as molasses, or directly from sugarcane juice, by a process of fermentation and distillation. The distillate, a clear liquid, is then usually aged in oak barrels.\r\n\r\nThe majority of the world's rum production occurs in the Caribbean and Latin America. Rum is also produced in Scotland, Austria, Spain, Australia, New Zealand, Fiji, the Philippines, India, Reunion Island, Mauritius, South Africa, Taiwan, Thailand, Japan, the",
+    "abv": 40,
+    "type": "Rum",
+    "alcoholic": true
+  },
+  "banana liqueur": {
+    "name": "Banana Liqueur",
+    "description": null,
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "sweet and sour": {
+    "name": "Sweet and Sour",
+    "description": "Sour mix (also known as sweet and sour mix) is a mixer that is yellow-green in color and is used in many cocktails. It is made from approximately equal parts lemon and/or lime juice and simple syrup and shaken vigorously with ice. This produces a pearly-white liquid with a pronounced flavor.\r\n\r\nOptionally, egg-whites may be added to make the liquid slightly foamy.\r\n\r\nSour mix can be mixed with liquor(s) to make a sour drink; most common are vodka sour (vodka) and whiskey sour (whiskey).\r\n\r\nPre-m",
+    "abv": null,
+    "type": "Soft Drink",
+    "alcoholic": false
+  },
+  "galliano": {
+    "name": "Galliano",
+    "description": "Liquore Galliano L'Autentico, known more commonly as Galliano, is a sweet herbal liqueur, created in 1896 by Italian distiller and brandy producer Arturo Vaccari of Livorno, Tuscany and named after Giuseppe Galliano, an Italian hero of the First Italo-Ethiopian War.\r\n\r\nGalliano has numerous natural ingredients including star anise, Mediterranean anise, juniper berry, musk yarrow, lavender, peppermint, cinnamon, and Galliano's hallmark vanilla flavour. Galliano uses vanillin for flavouring and su",
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "prosecco": {
+    "name": "Prosecco",
+    "description": "Prosecco (/prəˈsɛkoʊ, proʊ-/, Italian: [proˈsekko]) is an Italian white wine. Prosecco DOC can be spumante (\"sparkling wine\"), frizzante (\"semi-sparkling wine\"), or tranquillo (\"still wine\"). It is made from Glera grapes, formerly known also as Prosecco, but other grape varieties may be included. The following varieties are traditionally used with Glera up to a maximum of 15% of the total: Verdiso, Bianchetta Trevigiana, Perera, Glera lunga, Chardonnay, Pinot Bianco, Pinot Grigio and Pinot Nero.",
+    "abv": null,
+    "type": "Wine",
+    "alcoholic": true
+  },
+  "champagne": {
+    "name": "Champagne",
+    "description": "Champagne (French: [ʃɑ̃.paɲ]) is a sparkling wine and type of alcoholic drink produced from grapes grown in the Champagne region of France following rules that demand, among other things, secondary fermentation of the wine in the bottle to create carbonation, specific vineyard practices, sourcing of grapes exclusively from specific parcels in the Champagne appellation and specific pressing regimes unique to the region.[1] It contains the drug alcohol (also known formally as ethanol), and is used",
+    "abv": 13,
+    "type": "Wine",
+    "alcoholic": true
+  },
+  "peach schnapps": {
+    "name": "Peach Schnapps",
+    "description": "Schnapps (/ʃnɑːps/ or /ʃnæps/) or schnaps is a type of alcoholic beverage that may take several forms, including distilled fruit brandies, herbal liqueurs, infusions, and \"flavored liqueurs\" made by adding fruit syrups, spices, or artificial flavorings to neutral grain spirits.\r\n\r\nThe English loanword \"schnapps\" is derived from the colloquial German word Schnaps [ʃnaps] (About this sound listen) (plural: Schnäpse) which is used in reference to spirit drinks. The word Schnaps stems from Low Germa",
+    "abv": null,
+    "type": "Liquor",
+    "alcoholic": true
+  },
+  "southern comfort": {
+    "name": "Southern Comfort",
+    "description": "Southern Comfort (often abbreviated SoCo) is an American liqueur made from neutral spirits with fruit, spice and whiskey flavoring. The brand was originally created by bartender Martin Wilkes Heron in New Orleans in 1874. Since March 1, 2016 the brand has been owned by the Sazerac Company after being sold by the Brown-Forman Group. Sazerac has announced that Southern Comfort's formula will be changed in 2017 to include whiskey as an ingredient, as it was until some time before the brand was sold",
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "lime": {
+    "name": "Lime",
+    "description": "A lime (from French lime, from Arabic līma, from Persian līmū, \"lemon\") is a hybrid citrus fruit, which is typically round, lime green, 3–6 centimetres (1.2–2.4 in) in diameter, and contains acidic juice vesicles.\r\n\r\nThere are several species of citrus trees whose fruits are called limes, including the Key lime (Citrus aurantifolia), Persian lime, kaffir lime, and desert lime. Limes are an excellent source of vitamin C, and are often used to accent the flavours of foods and beverages. They are g",
+    "abv": null,
+    "type": "Fruit",
+    "alcoholic": false
+  },
+  "sour mix": {
+    "name": "Sour Mix",
+    "description": "Sour mix (also known as sweet and sour mix) is a mixer that is yellow-green in color and is used in many cocktails. It is made from approximately equal parts lemon and/or lime juice and simple syrup and shaken vigorously with ice. This produces a pearly-white liquid with a pronounced flavor.\r\n\r\nOptionally, egg-whites may be added to make the liquid slightly foamy.\r\n\r\nSour mix can be mixed with liquor(s) to make a sour drink; most common are vodka sour (vodka) and whiskey sour (whiskey).\r\n\r\nPre-m",
+    "abv": null,
+    "type": "Soft Drink",
+    "alcoholic": false
+  },
+  "irish cream": {
+    "name": "Irish cream",
+    "description": null,
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "goldschlager": {
+    "name": "Goldschlager",
+    "description": "Goldschläger is a Swiss cinnamon schnapps (43.5% alcohol by volume or 87 proof; originally it was 53.5% alcohol or 107 proof),[1] a liqueur with very thin, yet visible flakes of gold floating in it. The actual amount of gold has been measured at approximately 13 mg in a 1-Litre bottle of Goldschläger.[2] As of July 2016 this amounts to €0.55 EUR or lower on the international gold market.[3]\r\n\r\nGoldschläger was produced in Switzerland until the 1990s, when the brand was acquired by Diageo, which ",
+    "abv": 44,
+    "type": "Schnapps",
+    "alcoholic": true
+  },
+  "green chartreuse": {
+    "name": "Green Chartreuse",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "sloe gin": {
+    "name": "Sloe Gin",
+    "description": "Sloe gin is a red liqueur made with gin and sloe (blackthorn) drupes, which are a small fruit relative of the plum. Sloe gin has an alcohol content between 15 and 30 percent by volume. However, the European Union has established a minimum of 25% ABV for sloe gin to be named as such. The traditional way of making sloe gin is to soak the sloes in gin. Sugar is required to ensure the sloe juice is extracted from the fruit.\r\n\r\nMany commercial sloe gins today are made by flavouring less expensive neu",
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "blue curacao": {
+    "name": "Blue Curacao",
+    "description": "Curaçao (/ˈkjʊərəsaʊ/) is a liqueur flavored with the dried peel of the Laraha citrus fruit, grown on the island of Curaçao.\r\n\r\nAn official Curaçao liqueur has to be made with the dried peels of the \"Laraha\". Laraha is a bitter orange native of Curaçao with the Latin name: \"Citrus Aurantium Currasuviensis\", meaning \"Golden Orange of Curaçao\". Spanish explorers brought the sweet Valencia orange to the island in 1527, [2] but the nutrient-poor soil and arid climate of Curaçao proved unsuitable to ",
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "midori melon liqueur": {
+    "name": "Midori Melon Liqueur",
+    "description": "Midori is a sweet, bright green-coloured, muskmelon-flavored liqueur made by Suntory. It is manufactured in Japan, the United States, Mexico, and France. It was made exclusively in Japan until 1987. Midori is typically 20–21% alcohol by volume. Its name is the Japanese word for \"green\". The Midori formulated in France is sweeter than the original Japanese version.\r\n\r\nAs it is extremely sweet, Midori is not usually taken \"straight\"; it is generally used in a cocktail, e.g., the Japanese slipper, ",
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "jägermeister": {
+    "name": "Jagermeister",
+    "description": "Jägermeister (/ˈjeɪɡərˌmaɪstər/, YAY-gər-my-stər, German: [ˈjɛːɡɐˌmaɪstɐ], stylized Jägermeiſter) is a digestif made with 56 herbs and spices at a strength of 35% alcohol by volume (61 degrees proof, or US 70 proof). It is the flagship product of Mast-Jägermeister SE, headquartered in Wolfenbüttel, Germany.",
+    "abv": 35,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "passion fruit juice": {
+    "name": "Passion fruit juice",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "lemon": {
+    "name": "lemon",
+    "description": "The lemon, Citrus limon (L.) Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to Asia.\r\n\r\nThe tree's ellipsoidal yellow fruit is used for culinary and non-culinary purposes throughout the world, primarily for its juice, which has both culinary and cleaning uses. The pulp and rind (zest) are also used in cooking and baking. The juice of the lemon is about 5% to 6% citric acid, with a pH of around 2.2, giving it a sour taste. The distinctive sour taste of",
+    "abv": null,
+    "type": "Fruit",
+    "alcoholic": false
+  },
+  "powdered sugar": {
+    "name": "Powdered Sugar",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "cherry": {
+    "name": "Cherry",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "everclear": {
+    "name": "Everclear",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "mountain dew": {
+    "name": "Mountain Dew",
+    "description": null,
+    "abv": null,
+    "type": "Soda",
+    "alcoholic": false
+  },
+  "surge": {
+    "name": "Surge",
+    "description": null,
+    "abv": null,
+    "type": "Soda",
+    "alcoholic": false
+  },
+  "sugar syrup": {
+    "name": "Sugar Syrup",
+    "description": null,
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "creme de mure": {
+    "name": "Creme de Mure",
+    "description": "Home-made blackberry liqueur, a warming, sweet drink for the winter months",
+    "abv": 16,
+    "type": "Liquor",
+    "alcoholic": true
+  },
+  "hot chocolate": {
+    "name": "Hot Chocolate",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "cherry heering": {
+    "name": "Cherry Heering",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "wormwood": {
+    "name": "Wormwood",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "ice": {
+    "name": "Ice",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "rye whiskey": {
+    "name": "Rye Whiskey",
+    "description": null,
+    "abv": null,
+    "type": "Whiskey",
+    "alcoholic": true
+  },
+  "angostura bitters": {
+    "name": "Angostura Bitters",
+    "description": "Angostura bitters (English: /æŋɡəˈstjʊərə/) is a concentrated bitters, or botanically infused alcoholic mixture, made of water, 44.7% ethanol, gentian, herbs and spices by House of Angostura in Trinidad and Tobago. It is typically used for flavouring beverages or (less often) food. The bitters were first produced in the town of Angostura (Ciudad Bolívar, Venezuela) (hence the name), but do not contain angostura bark. The bottle is easily recognisable by its distinctive oversized label.\r\n\r\nThe re",
+    "abv": null,
+    "type": "Bitter",
+    "alcoholic": false
+  },
+  "corona": {
+    "name": "Corona",
+    "description": "Corona is a brand of beer produced by Mexican brewery Cervecería Modelo and owned by Belgian company AB InBev. It is the top-selling brand of imported beer in the United States. It is often served with a wedge of lime or lemon in the neck of the bottle to add tartness and flavor.",
+    "abv": 4,
+    "type": "Beer",
+    "alcoholic": true
+  },
+  "bacardi limon": {
+    "name": "Bacardi Limon",
+    "description": "Bacardi Limon Rum is a citric creation by the family-owned international rum emporium. A refreshing infusion of Bacardi white rum and essences of lemon, lime and grapefruit. Thirst quenching, smooth and delightful. Perfect Serve – Bacardi Limon Rum is a perfect match for soft drinks such as cola, ginger ale and lemonade, or served as chilled shooters with a ring of salt on the rim.",
+    "abv": 32,
+    "type": "Rum",
+    "alcoholic": true
+  },
+  "coffee": {
+    "name": "Coffee",
+    "description": "Coffee is a brewed drink prepared from roasted coffee beans, which are the seeds of berries from the Coffea plant. The genus Coffea is native to tropical Africa (specifically having its origin in Ethiopia and Sudan) and Madagascar, the Comoros, Mauritius, and Réunion in the Indian Ocean. The plant was exported from Africa to countries around the world and coffee plants are now cultivated in over 70 countries, primarily in the equatorial regions of the Americas, Southeast Asia, India, and Africa.",
+    "abv": null,
+    "type": "Coffee",
+    "alcoholic": false
+  },
+  "brandy": {
+    "name": "Brandy",
+    "description": "Brandy is a spirit produced by distilling wine. Brandy generally contains 35–60% alcohol by volume (70–120 US proof) and is typically taken as an after-dinner drink. Some brandies are aged in wooden casks, some are coloured with caramel colouring to imitate the effect of aging, and some brandies are produced using a combination of both aging and colouring.\r\n\r\nIn broader sense, the term \"brandy\" also denotes liquors obtained from distillation of pomace (pomace brandy) or mash or wine of any other",
+    "abv": null,
+    "type": "Spirit",
+    "alcoholic": true
+  },
+  "cachaca": {
+    "name": "Cachaca",
+    "description": "Cachaça (Portuguese pronunciation: [kaˈʃasɐ]) is a distilled spirit made from fermented sugarcane juice. Also known as aguardente, pinga, caninha and other names, it is the most popular distilled alcoholic beverage in Brazil. Outside Brazil, cachaça is used almost exclusively as an ingredient in tropical drinks, with the caipirinha being the most famous cocktail.\r\n\r\nSugar production was mostly switched from the Madeira islands to Brazil by the Portuguese in the 16th century. In Madeira, aguarden",
+    "abv": null,
+    "type": "Spirit",
+    "alcoholic": true
+  },
+  "white rum": {
+    "name": "White Rum",
+    "description": "Rum is a distilled alcoholic beverage made from sugarcane byproducts, such as molasses, or directly from sugarcane juice, by a process of fermentation and distillation. The distillate, a clear liquid, is then usually aged in oak barrels.\r\n\r\nThe majority of the world's rum production occurs in the Caribbean and Latin America. Rum is also produced in Scotland, Austria, Spain, Australia, New Zealand, Fiji, the Philippines, India, Reunion Island, Mauritius, South Africa, Taiwan, Thailand, Japan, the",
+    "abv": null,
+    "type": "Rum",
+    "alcoholic": true
+  },
+  "lager": {
+    "name": "Lager",
+    "description": "Lager (German: storeroom or warehouse) (Czech: ležák) is a type of beer that originates from the part of the Austrian Empire that is now known as the Czech Republic. It is conditioned at low temperatures, normally at the brewery. It may be pale, golden, amber, or dark.\r\n\r\nAlthough one of the most defining features of lager is its maturation in cold storage, it is also distinguished by the use of a specific yeast. While it is possible to use lager yeast in a warm fermentation process, such as wit",
+    "abv": 4,
+    "type": "Beer",
+    "alcoholic": true
+  },
+  "egg yolk": {
+    "name": "Egg Yolk",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "cherry brandy": {
+    "name": "Cherry Brandy",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "port": {
+    "name": "Port",
+    "description": "Port wine (also known as vinho do Porto, Portuguese pronunciation: [ˌviɲuduˈpoɾtu], Porto, and usually simply port) is a Portuguese fortified wine produced exclusively in the Douro Valley in the northern provinces of Portugal. It is typically a sweet, red wine, often served as a dessert wine, though it also comes in dry, semi-dry, and white varieties. Fortified wines in the style of port are also produced outside Portugal, most notably in Australia, France, South Africa, Canada, India, Argentina",
+    "abv": null,
+    "type": "Fortified wine",
+    "alcoholic": true
+  },
+  "carbonated water": {
+    "name": "Carbonated Water",
+    "description": null,
+    "abv": null,
+    "type": "Water",
+    "alcoholic": false
+  },
+  "chocolate": {
+    "name": "Chocolate",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "water": {
+    "name": "Water",
+    "description": "Water is a transparent and nearly colorless chemical substance that is the main constituent of Earth's streams, lakes, and oceans, and the fluids of most living organisms. Its chemical formula is H2O, meaning that its molecule contains one oxygen and two hydrogen atoms that are connected by covalent bonds. Strictly speaking, water refers to the liquid state of a substance that prevails at standard ambient temperature and pressure; but it often refers also to its solid state (ice) or its gaseous ",
+    "abv": null,
+    "type": "Water",
+    "alcoholic": false
+  },
+  "chocolate liqueur": {
+    "name": "Chocolate Liqueur",
+    "description": null,
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "coca-cola": {
+    "name": "Coca-Cola",
+    "description": "Coca-Cola, or Coke, is a carbonated soft drink[1] produced by The Coca-Cola Company. Originally intended as a patent medicine, it was invented in the late 19th century by John Pemberton and was bought out by businessman Asa Griggs Candler, whose marketing tactics led Coca-Cola to its dominance of the world soft-drink market throughout the 20th century. The drink's name refers to two of its original ingredients, which were kola nuts (a source of caffeine) and coca leaves. The current formula of C",
+    "abv": null,
+    "type": "Soft Drink",
+    "alcoholic": false
+  },
+  "wine": {
+    "name": "Wine",
+    "description": "Wine (from Latin vinum) is an alcoholic beverage made from grapes, generally Vitis vinifera, fermented without the addition of sugars, acids, enzymes, water, or other nutrients.\r\n\r\nYeast consumes the sugar in the grapes and converts it to ethanol and carbon dioxide. Different varieties of grapes and strains of yeasts produce different styles of wine. These variations result from the complex interactions between the biochemical development of the grape, the reactions involved in fermentation, the",
+    "abv": 14,
+    "type": "Wine",
+    "alcoholic": true
+  },
+  "vanilla extract": {
+    "name": "Vanilla extract",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "vanilla": {
+    "name": "Vanilla",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "caramel coloring": {
+    "name": "Caramel Coloring",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "falernum": {
+    "name": "Falernum",
+    "description": "Falernum (pronounced fah-learn-um) is a sweet syrup used in Caribbean and tropical drinks. It contains flavors of almond, ginger, lime, and sometimes vanilla, cloves, and allspice. It is used in cocktails in a manner similar to orgeat syrup or can be drunk on the rocks.\r\n\r\nThe syrup form can be alcoholic or nonalcoholic.\r\n\r\nThe consistency is thick, the color can be white to light amber, and it may be clear or translucent.",
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "añejo rum": {
+    "name": "Añejo Rum",
+    "description": "Rum is a distilled alcoholic beverage made from sugarcane byproducts, such as molasses, or directly from sugarcane juice, by a process of fermentation and distillation. The distillate, a clear liquid, is then usually aged in oak barrels.\r\n\r\nThe majority of the world's rum production occurs in the Caribbean and Latin America. Rum is also produced in Scotland, Austria, Spain, Australia, New Zealand, Fiji, the Philippines, Reunion Island, Mauritius, South Africa, Taiwan, Thailand, Japan, the United",
+    "abv": 38,
+    "type": "Rum",
+    "alcoholic": true
+  },
+  "blackstrap rum": {
+    "name": "Blackstrap rum",
+    "description": "The third boiling of the sugar syrup yields dark, viscous blackstrap molasses, known for its robust flavor. The majority of sucrose from the original juice has crystallized and been removed. The caloric content of blackstrap molasses is mostly due to the small remaining sugar content.",
+    "abv": null,
+    "type": "Rum",
+    "alcoholic": true
+  },
+  "lillet blanc": {
+    "name": "Lillet Blanc",
+    "description": "Lillet (French pronunciation: French pronunciation: ​[li'le]), classed as an aromatised wine within EU law, is a French wine-based aperitif from Podensac. It is a blend of 85% Bordeaux region wines (Semillon for the Blanc and for the Rosé, Merlot for the Rouge) and 15% macerated liqueurs, mostly citrus liqueurs (peels of sweet oranges from Spain and Morocco and peels of bitter green oranges from Haiti). The mix is then stirred in oak vats until blended. During the aging process, Lillet is handle",
+    "abv": null,
+    "type": "aperitif",
+    "alcoholic": true
+  },
+  "absinthe": {
+    "name": "Absinthe",
+    "description": "Absinthe is historically described as a distilled, highly alcoholic (45–74% ABV / 90–148 U.S. proof) beverage.[1][2][3][4] It is an anise-flavoured spirit derived from botanicals, including the flowers and leaves of Artemisia absinthium (\"grand wormwood\"), together with green anise, sweet fennel, and other medicinal and culinary herbs.[5] Absinthe traditionally has a natural green colour but may also be colourless. It is commonly referred to in historical literature as \"la fée verte\" (the green ",
+    "abv": null,
+    "type": "Spirit",
+    "alcoholic": true
+  },
+  "cointreau": {
+    "name": "Cointreau",
+    "description": "Cointreau is an orange-flavoured triple sec liqueur produced in Saint-Barthélemy-d'Anjou, France. It is consumed as an apéritif and digestif, and is a component of several well-known cocktails. It was originally called Curaçao Blanco Triple Sec.",
+    "abv": 40,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "almond flavoring": {
+    "name": "Almond Flavoring",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "ginger ale": {
+    "name": "Ginger Ale",
+    "description": "Ginger ale is a carbonated soft drink flavoured with ginger in one of two ways. The golden style is credited to the American doctor Thomas Cantrell. The dry style (also called the pale style) is a paler drink with a much milder ginger flavour, and was created by Canadian John McLaughlin.",
+    "abv": null,
+    "type": "Soft Drink",
+    "alcoholic": false
+  },
+  "spiced rum": {
+    "name": "Spiced Rum",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "whiskey": {
+    "name": "Whiskey",
+    "description": "Whisky or whiskey is a type of distilled alcoholic beverage made from fermented grain mash. Various grains (which may be malted) are used for different varieties, including barley, corn (maize), rye, and wheat. Whisky is typically aged in wooden casks, generally made of charred white oak.\r\n\r\nWhisky is a strictly regulated spirit worldwide with many classes and types. The typical unifying characteristics of the different classes and types are the fermentation of grains, distillation, and aging in",
+    "abv": 40,
+    "type": "Whisky",
+    "alcoholic": true
+  },
+  "hot damn": {
+    "name": "Hot Damn",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "ginger beer": {
+    "name": "Ginger Beer",
+    "description": "Ginger ale is a carbonated soft drink flavoured with ginger in one of two ways. The golden style is credited to the American doctor Thomas Cantrell. The dry style (also called the pale style) is a paler drink with a much milder ginger flavour, and was created by Canadian John McLaughlin.\r\n\r\nThomas Cantrell, an American apothecary and surgeon, claimed to have invented ginger ale in Belfast, Northern Ireland, and marketed it with local beverage manufacturer Grattan and Company. Grattan embossed th",
+    "abv": null,
+    "type": "Soft Drink",
+    "alcoholic": false
+  },
+  "demerara sugar": {
+    "name": "Demerara Sugar",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "peach bitters": {
+    "name": "Peach Bitters",
+    "description": "A bitters is traditionally an alcoholic preparation flavored with botanical matter such that the end result is characterized by a bitter, sour, or bittersweet flavor. Numerous longstanding brands of bitters were originally developed as patent medicines, but are now sold as digestifs and cocktail flavorings.\r\n\r\nThe botanical ingredients used in preparing bitters have historically consisted of aromatic herbs, bark, roots, and/or fruit for their flavour and medicinal properties. Some of the more co",
+    "abv": null,
+    "type": "Bitter",
+    "alcoholic": true
+  },
+  "cider": {
+    "name": "Cider",
+    "description": "Cider (/ˈsaɪdər/ SY-dər) is an alcoholic beverage made from the fermented juice of apples.\r\n\r\nThe juice of any variety of apple can be used to make cider, but cider apples are best. The addition of sugar or extra fruit before a second fermentation increases the ethanol content of the resulting beverage.\r\n\r\nCider is popular in the United Kingdom, especially in the West Country, and widely available. The UK has the world's highest per capita consumption, as well as its largest cider-producing comp",
+    "abv": 4,
+    "type": "Cider",
+    "alcoholic": true
+  },
+  "blackcurrant cordial": {
+    "name": "Blackcurrant Cordial",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "olive brine": {
+    "name": "Olive Brine",
+    "description": "Olive brine — or olive juice — is simply a mixture of salt, vinegar and water but as olives marinate, the liquid takes on a fantastically rich and delicious olive flavor. That salty goodness is a pungent boost that will deepen the flavor profile in your cooking.",
+    "abv": null,
+    "type": "Mixer",
+    "alcoholic": false
+  },
+  "olive": {
+    "name": "Olive",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "fruit punch": {
+    "name": "Fruit Punch",
+    "description": null,
+    "abv": null,
+    "type": "Juice",
+    "alcoholic": false
+  },
+  "sprite": {
+    "name": "Sprite",
+    "description": null,
+    "abv": null,
+    "type": "Soda",
+    "alcoholic": false
+  },
+  "tequila": {
+    "name": "Tequila",
+    "description": "Tequila (Spanish pronunciation: [teˈkila] (About this sound listen)) is a regionally specific distilled beverage and type of alcoholic drink made from the blue agave plant, primarily in the area surrounding the city of Tequila, 65 km (40 mi) northwest of Guadalajara, and in the highlands (Los Altos) of the central western Mexican state of Jalisco. Aside from differences in region of origin, tequila is a type of mezcal (and the regions of production of the two drinks are overlapping). The distinc",
+    "abv": 40,
+    "type": "Spirit",
+    "alcoholic": true
+  },
+  "cinnamon": {
+    "name": "Cinnamon",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "whipped cream": {
+    "name": "Whipped Cream",
+    "description": "Whipped cream is cream that is whipped by a whisk or mixer until it is light and fluffy. Whipped cream is often sweetened and sometimes flavored with vanilla. Whipped cream is often called Chantilly cream or crème Chantilly (pronounced [kʁɛm ʃɑ̃tiji]).\r\n\r\nWhipped cream is an aerated colloid produced when air is incorporated into cream containing at least 35% fat. During whipping, partially coalesced fat molecules create a stabilized network which traps air bubbles. The resulting colloid is rough",
+    "abv": null,
+    "type": "Cream",
+    "alcoholic": false
+  },
+  "dubonnet rouge": {
+    "name": "Dubonnet Rouge",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "pisco": {
+    "name": "Pisco",
+    "description": "Pisco is a colorless or yellowish-to-amber colored brandy produced in winemaking regions of Peru and Chile. Made by distilling fermented grape juice into a high-proof spirit, it was developed by 16th century Spanish settlers as an alternative to orujo, a pomace brandy that was being imported from Spain. It had the advantages of being produced from abundant domestically grown fruit and reducing the volume of alcoholic beverages transported to remote locations.\r\n\r\nAnnual pisco production in 2013 r",
+    "abv": null,
+    "type": "Brandy",
+    "alcoholic": true
+  },
+  "pineapple syrup": {
+    "name": "Pineapple Syrup",
+    "description": "Pineapple syrup is a kind of simple syrup that takes advantage of pineapple's texturizing effect to produce a sweet-and-sour, musky syrup that is not only a classic Tiki ingredient, but also has uses in many early 20th century cocktails.",
+    "abv": null,
+    "type": "Fruit Juice",
+    "alcoholic": false
+  },
+  "st. germain": {
+    "name": "St. Germain",
+    "description": "St-Germain is made from fresh, hand-picked elderflower blossoms gathered each Spring throughout Europe\r\nUp to 1000 fresh elderflowers make a bottle of St-Germain\r\nSt-Germain Elderflower Liqueur - made in France using French savoir-faire with with no preservatives or stabilisers.",
+    "abv": null,
+    "type": "Liquor",
+    "alcoholic": true
+  },
+  "pepper": {
+    "name": "Pepper",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "lavender": {
+    "name": "Lavender",
+    "description": "Lavandula is a genus of 47 known species of flowering plants in the mint family, Lamiaceae. It is native to the Old World and is found from Cape Verde and the Canary Islands, Europe across to northern and eastern Africa, the Mediterranean, southwest Asia to southeast India.",
+    "abv": null,
+    "type": "Flower",
+    "alcoholic": false
+  },
+  "chocolate syrup": {
+    "name": "Chocolate Syrup",
+    "description": null,
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "egg": {
+    "name": "Egg",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "condensed milk": {
+    "name": "Condensed Milk",
+    "description": null,
+    "abv": null,
+    "type": "Milk",
+    "alcoholic": false
+  },
+  "salt": {
+    "name": "Salt",
+    "description": "Table salt or common salt is a mineral composed primarily of sodium chloride (NaCl), a chemical compound belonging to the larger class of salts; salt in its natural form as a crystalline mineral is known as rock salt or halite. Salt is present in vast quantities in seawater, where it is the main mineral constituent. The open ocean has about 35 grams (1.2 oz) of solids per litre, a salinity of 3.5%.\r\n\r\nSalt is essential for life in general, and saltiness is one of the basic human tastes. The tiss",
+    "abv": null,
+    "type": "Mineral",
+    "alcoholic": false
+  },
+  "whipping cream": {
+    "name": "Whipping Cream",
+    "description": "Whipped cream is cream that is whipped by a whisk or mixer until it is light and fluffy. Whipped cream is often sweetened and sometimes flavored with vanilla. Whipped cream is often called Chantilly cream or crème Chantilly (pronounced [kʁɛm ʃɑ̃tiji]).\r\n\r\nWhipped cream is an aerated colloid produced when air is incorporated into cream containing at least 35% fat. During whipping, partially coalesced fat molecules create a stabilized network which traps air bubbles. The resulting colloid is rough",
+    "abv": null,
+    "type": "Cream",
+    "alcoholic": false
+  },
+  "elderflower cordial": {
+    "name": "Elderflower cordial",
+    "description": "Elderflower cordial is a soft drink made largely from a refined sugar and water solution and uses the flowers of the European elderberry. Historically the cordial has been popular in North Western Europe where it has a strong Victorian heritage.",
+    "abv": null,
+    "type": "Cordial",
+    "alcoholic": false
+  },
+  "mezcal": {
+    "name": "Mezcal",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "coffee liqueur": {
+    "name": "Coffee Liqueur",
+    "description": null,
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "apricot brandy": {
+    "name": "Apricot Brandy",
+    "description": null,
+    "abv": 24,
+    "type": "Brandy",
+    "alcoholic": true
+  },
+  "vanilla syrup": {
+    "name": "Vanilla syrup",
+    "description": null,
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "espresso": {
+    "name": "Espresso",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "firewater": {
+    "name": "Firewater",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "absolut peppar": {
+    "name": "Absolut Peppar",
+    "description": "Absolut Vodka is a brand of vodka, produced near Åhus, in southern Sweden. Absolut is owned by French group Pernod Ricard; they bought Absolut for €5.63 billion in 2008 from the Swedish state. Absolut is the third largest brand of alcoholic spirits in the world after Bacardi and Smirnoff, and is sold in 126 countries.",
+    "abv": 40,
+    "type": "Vodka",
+    "alcoholic": true
+  },
+  "tabasco sauce": {
+    "name": "Tabasco Sauce",
+    "description": null,
+    "abv": null,
+    "type": "Sauce",
+    "alcoholic": false
+  },
+  "honey": {
+    "name": "Honey",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "figs": {
+    "name": "Figs",
+    "description": "Ficus carica is an Asian species of flowering plant in the mulberry family, known as the common fig. It is the source of the fruit also called the fig and as such is an important crop in those areas where it is grown commercially.",
+    "abv": 0,
+    "type": "Fruit",
+    "alcoholic": false
+  },
+  "thyme": {
+    "name": "Thyme",
+    "description": "Thyme is the herb of some members of the genus Thymus of aromatic perennial evergreen herbs in the mint family Lamiaceae. Thymes are relatives of the oregano genus Origanum. They have culinary, medicinal, and ornamental uses, and the species most commonly cultivated and used for culinary purposes is Thymus vulgaris.",
+    "abv": 0,
+    "type": "Herb",
+    "alcoholic": false
+  },
+  "dr. pepper": {
+    "name": "Dr. Pepper",
+    "description": null,
+    "abv": null,
+    "type": "Soft Drink",
+    "alcoholic": false
+  },
+  "beer": {
+    "name": "Beer",
+    "description": "Beer is the oldest and most widely consumed alcoholic drink in the world, and the third most popular drink overall after water and tea.[5] Beer is brewed from cereal grains — most commonly from malted barley, though wheat, maize (corn), and rice are also used. During the brewing process, fermentation of the starch sugars in the wort produces ethanol and carbonation in the resulting beer. Most modern beer is brewed with hops, which add bitterness and other flavours and act as a natural preservati",
+    "abv": 4,
+    "type": "Beer",
+    "alcoholic": true
+  },
+  "sarsaparilla": {
+    "name": "Sarsaparilla",
+    "description": null,
+    "abv": null,
+    "type": "Soda",
+    "alcoholic": false
+  },
+  "orange": {
+    "name": "Orange",
+    "description": "The orange is the fruit of the citrus species Citrus × sinensis in the family Rutaceae. It is also called sweet orange, to distinguish it from the related Citrus × aurantium, referred to as bitter orange. The sweet orange reproduces asexually (apomixis through nucellar embryony); varieties of sweet orange arise through mutations.\r\n\r\nThe orange is a hybrid between pomelo (Citrus maxima) and mandarin (Citrus reticulata). It has genes that are ~25% pomelo and ~75% mandarin; however, it is not a sim",
+    "abv": null,
+    "type": "Fruit",
+    "alcoholic": false
+  },
+  "raspberry liqueur": {
+    "name": "Raspberry Liqueur",
+    "description": null,
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "lillet": {
+    "name": "Lillet",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "benedictine": {
+    "name": "Benedictine",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "rose": {
+    "name": "Rose",
+    "description": "A rosé (from French, rosé [ʁoze]) is a type of wine that incorporates some of the color from the grape skins, but not enough to qualify it as a red wine. It may be the oldest known type of wine, as it is the most straightforward to make with the skin contact method. The pink color can range from a pale \"onion-skin\" orange to a vivid near-purple, depending on the grape varieties used and winemaking techniques. Usually, the wine is labelled rosé in French, Portuguese, and English-speaking countrie",
+    "abv": 14,
+    "type": "Wine",
+    "alcoholic": true
+  },
+  "strawberries": {
+    "name": "Strawberries",
+    "description": "The garden strawberry (or simply strawberry; Fragaria × ananassa) is a widely grown hybrid species of the genus Fragaria, collectively known as the strawberries. It is cultivated worldwide for its fruit. The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness. It is consumed in large quantities, either fresh or in such prepared foods as preserves, juice, pies, ice creams, milkshakes, and chocolates. Artificial strawberry flavorings and aromas ",
+    "abv": null,
+    "type": "Fruit",
+    "alcoholic": false
+  },
+  "pineapple": {
+    "name": "Pineapple",
+    "description": "The pineapple (Ananas comosus) is a tropical plant with an edible multiple fruit consisting of coalesced berries, also called pineapples, and the most economically significant plant in the Bromeliaceae family.\r\n\r\nPineapples may be cultivated from a crown cutting of the fruit, possibly flowering in 5–10 months and fruiting in the following six months. Pineapples do not ripen significantly after harvest.\r\n\r\nPineapples can be consumed fresh, cooked, juiced, or preserved. They are found in a wide ar",
+    "abv": null,
+    "type": "Fruit",
+    "alcoholic": false
+  },
+  "apple": {
+    "name": "Apple",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "yoghurt": {
+    "name": "Yoghurt",
+    "description": "Yogurt, yoghurt, or yoghourt (/ˈjoʊɡərt/ or /ˈjɒɡət/; from Turkish: yoğurt; other spellings listed below) is a food produced by bacterial fermentation of milk.[1] The bacteria used to make yogurt are known as \"yogurt cultures\". Fermentation of lactose by these bacteria produces lactic acid, which acts on milk protein to give yogurt its texture and characteristic tart flavor. Cow's milk is commonly available worldwide, and, as such, is the milk most commonly used to make yogurt. Milk from water b",
+    "abv": null,
+    "type": "Cream",
+    "alcoholic": false
+  },
+  "fruit juice": {
+    "name": "Fruit Juice",
+    "description": null,
+    "abv": null,
+    "type": "Juice",
+    "alcoholic": false
+  },
+  "banana": {
+    "name": "Banana",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "fruit": {
+    "name": "Fruit",
+    "description": null,
+    "abv": null,
+    "type": "Fruit",
+    "alcoholic": false
+  },
+  "apricot nectar": {
+    "name": "Apricot Nectar",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "pomegranate juice": {
+    "name": "Pomegranate juice",
+    "description": "Pomegranate juice is made from the fruit of the pomegranate. It is used in cooking both as a fresh juice and as a concentrated syrup.",
+    "abv": null,
+    "type": "Fruit Juice",
+    "alcoholic": false
+  },
+  "peach vodka": {
+    "name": "Peach Vodka",
+    "description": null,
+    "abv": null,
+    "type": "Vodka",
+    "alcoholic": true
+  },
+  "sirup of roses": {
+    "name": "Sirup of roses",
+    "description": null,
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "orange spiral": {
+    "name": "Orange spiral",
+    "description": null,
+    "abv": null,
+    "type": "Fruit",
+    "alcoholic": false
+  },
+  "red wine": {
+    "name": "Red Wine",
+    "description": "Wine (from Latin vinum) is an alcoholic beverage made from grapes, generally Vitis vinifera, fermented without the addition of sugars, acids, enzymes, water, or other nutrients.\r\n\r\nYeast consumes the sugar in the grapes and converts it to ethanol and carbon dioxide. Different varieties of grapes and strains of yeasts produce different styles of wine. These variations result from the complex interactions between the biochemical development of the grape, the reactions involved in fermentation, the",
+    "abv": 14,
+    "type": "Wine",
+    "alcoholic": true
+  },
+  "cloves": {
+    "name": "Cloves",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "malibu rum": {
+    "name": "Malibu Rum",
+    "description": "Malibu is a brand of rum, flavored with liqueur, possessing an alcohol content by volume of 21.0% (42 proof). The brand is owned by Pernod Ricard.\r\n\r\nThe product was originally made from fruit spirits, flavored with rum and coconut flavoring in Curaçao. Originally, the product was used to simplify the making of piña coladas by bartenders. When the product took off, the production was then moved to Barbados where the rum is made by West Indies Rum Distillery Ltd., and the quality of the ingredien",
+    "abv": 21,
+    "type": "Rum",
+    "alcoholic": true
+  },
+  "green creme de menthe": {
+    "name": "Green Creme de Menthe",
+    "description": null,
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "whisky": {
+    "name": "Whisky",
+    "description": "Whisky or whiskey is a type of distilled alcoholic beverage made from fermented grain mash. Various grains (which may be malted) are used for different varieties, including barley, corn (maize), rye, and wheat. Whisky is typically aged in wooden casks, generally made of charred white oak.\r\n\r\nWhisky is a strictly regulated spirit worldwide with many classes and types. The typical unifying characteristics of the different classes and types are the fermentation of grains, distillation, and aging in",
+    "abv": 40,
+    "type": "Whisky",
+    "alcoholic": true
+  },
+  "cherry juice": {
+    "name": "Cherry Juice",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "red chili flakes": {
+    "name": "Red Chili Flakes",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "ginger": {
+    "name": "Ginger",
+    "description": null,
+    "abv": null,
+    "type": "Fruit",
+    "alcoholic": false
+  },
+  "tea": {
+    "name": "Tea",
+    "description": null,
+    "abv": null,
+    "type": "Tea",
+    "alcoholic": false
+  },
+  "grape juice": {
+    "name": "Grape juice",
+    "description": null,
+    "abv": null,
+    "type": "Juice",
+    "alcoholic": false
+  },
+  "carbonated soft drink": {
+    "name": "Carbonated Soft Drink",
+    "description": null,
+    "abv": null,
+    "type": "Soft Drink",
+    "alcoholic": false
+  },
+  "sherbet": {
+    "name": "Sherbet",
+    "description": null,
+    "abv": null,
+    "type": "Sweet",
+    "alcoholic": false
+  },
+  "corn syrup": {
+    "name": "Corn Syrup",
+    "description": null,
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "butter": {
+    "name": "Butter",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "half-and-half": {
+    "name": "Half-and-half",
+    "description": "Half and half refers to various beverages or liquid foods made of an equal-parts mixture of two substances, including dairy products, alcoholic beverages, and soft drinks.\r\n\r\nIn Canada and the United States, half and half (known as \"half cream\" in the United Kingdom[citation needed]) almost always refers to a light cream typically used in coffee. The name refers to the liquid's content of half milk and half cream. Its butterfat content is 12.5%. It is widely available in the United States, both ",
+    "abv": null,
+    "type": "Soft Drink",
+    "alcoholic": false
+  },
+  "marshmallows": {
+    "name": "Marshmallows",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "irish whiskey": {
+    "name": "Irish Whiskey",
+    "description": null,
+    "abv": null,
+    "type": "Whiskey",
+    "alcoholic": true
+  },
+  "blackberries": {
+    "name": "Blackberries",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "iced tea": {
+    "name": "Iced tea",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "aperol": {
+    "name": "Aperol",
+    "description": null,
+    "abv": 11,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "brown sugar": {
+    "name": "Brown Sugar",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "coconut syrup": {
+    "name": "Coconut Syrup",
+    "description": null,
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "guinness stout": {
+    "name": "Guinness stout",
+    "description": "Guinness (/ˈɡɪnɪs/) is an Irish dry stout that originated in the brewery of Arthur Guinness (1725–1803) at St. James's Gate brewery in the capital city of Dublin, Ireland. Guinness, produced by the Diageo beverages company, is one of the most successful beer brands worldwide. It is brewed in almost 50 countries and is available in over 120. Annual sales total of Guinness in 2011 was 850 million litres (220,000,000 US gal).\r\n\r\nGuinness features a burnt flavour that is derived from malted barley a",
+    "abv": null,
+    "type": "Stout",
+    "alcoholic": true
+  },
+  "peach brandy": {
+    "name": "Peach brandy",
+    "description": null,
+    "abv": null,
+    "type": "Brandy",
+    "alcoholic": true
+  },
+  "apple brandy": {
+    "name": "Apple Brandy",
+    "description": null,
+    "abv": 35,
+    "type": "Brandy",
+    "alcoholic": true
+  },
+  "tennessee whiskey": {
+    "name": "Tennessee whiskey",
+    "description": null,
+    "abv": null,
+    "type": "Whiskey",
+    "alcoholic": true
+  },
+  "jack daniels": {
+    "name": "Jack Daniels",
+    "description": "Jack Daniel's is a brand of Tennessee whiskey and the top selling American whiskey in the world. It is produced in Lynchburg, Tennessee, by the Jack Daniel Distillery, which has been owned by the Brown-Forman Corporation since 1956. Despite being the location of a major operational distillery, Jack Daniel's home county of Moore is a dry county, so the product is not available for purchase at stores or restaurants within the county.\r\n\r\nThe product meets the regulatory criteria for classification ",
+    "abv": null,
+    "type": "Whiskey",
+    "alcoholic": true
+  },
+  "chambord raspberry liqueur": {
+    "name": "Chambord Raspberry Liqueur",
+    "description": "Chambord Liqueur (pronounced [ʃɑ̃.bɔʁ]) is a 16.5% abv raspberry liqueur modelled after a liqueur produced in the Loire Valley of France during the late 17th century. The Chambord product brand has been owned and produced by the Brown-Forman Corporation since 2006.\r\n\r\nChambord is made from red and black raspberries, Madagascar vanilla, Moroccan citrus peel, honey and cognac.\r\n\r\nThe Chambord brand was founded in 1982. The drink was inspired by raspberry liqueur made in the Loire Valley in the lat",
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "jello": {
+    "name": "Jello",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "anis": {
+    "name": "Anis",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "yellow chartreuse": {
+    "name": "Yellow Chartreuse",
+    "description": "Chartreuse (pronounced [ʃaʁtʁøz]) is a French liqueur made by the Carthusian Monks since 1737 according to the instructions set out in a manuscript given to them by François Annibal d'Estrées in 1605. It is composed of distilled alcohol aged with 130 herbs, plants and flowers. The liqueur is named after the monks' Grande Chartreuse monastery, located in the Chartreuse Mountains in the general region of Grenoble in France. The liqueur is produced in their distillery in the nearby town of Voiron (",
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "mint syrup": {
+    "name": "Mint syrup",
+    "description": null,
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "grain alcohol": {
+    "name": "Grain Alcohol",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "creme de cassis": {
+    "name": "Creme De Cassis",
+    "description": "Crème de cassis is a sweet, dark red liqueur made from blackcurrants. Several cocktails are made with crème de cassis, including the very popular wine cocktail, kir. It may also be served as an after-dinner liqueur or as a frappé.",
+    "abv": 15,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "cranberry vodka": {
+    "name": "Cranberry Vodka",
+    "description": null,
+    "abv": null,
+    "type": "Vodka",
+    "alcoholic": true
+  },
+  "apfelkorn": {
+    "name": "Apfelkorn",
+    "description": null,
+    "abv": 18,
+    "type": null,
+    "alcoholic": true
+  },
+  "schweppes russchian": {
+    "name": "Schweppes Russchian",
+    "description": null,
+    "abv": null,
+    "type": "Soda",
+    "alcoholic": false
+  },
+  "kiwi liqueur": {
+    "name": "Kiwi liqueur",
+    "description": null,
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "bitter lemon": {
+    "name": "Bitter lemon",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "kiwi": {
+    "name": "Kiwi",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "papaya": {
+    "name": "Papaya",
+    "description": null,
+    "abv": null,
+    "type": "Fruit",
+    "alcoholic": false
+  },
+  "kool-aid": {
+    "name": "Kool-Aid",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "absolut kurant": {
+    "name": "Absolut Kurant",
+    "description": "Absolut Vodka is a brand of vodka, produced near Åhus, in southern Sweden. Absolut is owned by French group Pernod Ricard; they bought Absolut for €5.63 billion in 2008 from the Swedish state. Absolut is the third largest brand of alcoholic spirits in the world after Bacardi and Smirnoff, and is sold in 126 countries.",
+    "abv": 40,
+    "type": "Vodka",
+    "alcoholic": true
+  },
+  "cumin seed": {
+    "name": "Cumin Seed",
+    "description": null,
+    "abv": null,
+    "type": "Spice",
+    "alcoholic": false
+  },
+  "mango": {
+    "name": "Mango",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "asafoetida": {
+    "name": "Asafoetida",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "coconut liqueur": {
+    "name": "Coconut Liqueur",
+    "description": null,
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "fresh lemon juice": {
+    "name": "Fresh Lemon Juice",
+    "description": "The lemon, Citrus limon (L.) Osbeck, is a species of small evergreen tree in the flowering plant family Rutaceae, native to Asia.\r\n\r\nThe tree's ellipsoidal yellow fruit is used for culinary and non-culinary purposes throughout the world, primarily for its juice, which has both culinary and cleaning uses. The pulp and rind (zest) are also used in cooking and baking. The juice of the lemon is about 5% to 6% citric acid, with a pH of around 2.2, giving it a sour taste. The distinctive sour taste of",
+    "abv": null,
+    "type": "Juice",
+    "alcoholic": false
+  },
+  "absolut citron": {
+    "name": "Absolut citron",
+    "description": "Absolut Vodka is a brand of vodka, produced near Åhus, in southern Sweden. Absolut is owned by French group Pernod Ricard; they bought Absolut for €5.63 billion in 2008 from the Swedish state. Absolut is the third largest brand of alcoholic spirits in the world after Bacardi and Smirnoff, and is sold in 126 countries.\r\n\r\nAbsolut was established in 1879 by Lars Olsson Smith and is produced in Åhus, Sweden.[1] Smith challenged the city of Stockholm's liquor marketing monopoly with his vodka. It wa",
+    "abv": null,
+    "type": "Vodka",
+    "alcoholic": true
+  },
+  "cayenne pepper": {
+    "name": "Cayenne Pepper",
+    "description": null,
+    "abv": null,
+    "type": "Mineral",
+    "alcoholic": false
+  },
+  "lime peel": {
+    "name": "Lime Peel",
+    "description": null,
+    "abv": null,
+    "type": "Fruit",
+    "alcoholic": false
+  },
+  "drambuie": {
+    "name": "Drambuie",
+    "description": "Drambuie /dræmˈbuːi/ is a golden coloured, 40% ABV liqueur made from scotch whisky, honey, herbs and spices. The brand had been owned by the MacKinnon family for a hundred years but was bought by William Grant & Sons in 2014. It has been produced under contract at the Morrison Bowmore Distillers facility at Springburn Bond, Glasgow since 2010.\r\n\r\nThe name \"Drambuie\" possibly derives from a contraction of the Scottish Gaelic phrase an dram buidheach – \"the drink that satisfies\" – a claim made by ",
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "tia maria": {
+    "name": "Tia Maria",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "orgeat syrup": {
+    "name": "Orgeat Syrup",
+    "description": "Orgeat syrup is a sweet syrup made from almonds, sugar, and rose water or orange flower water. It was, however, originally made with a barley-almond blend. It has a pronounced almond taste and is used to flavor many cocktails, perhaps the most famous of which is the Mai Tai.[citation needed]\r\n\r\nThe word \"orgeat\" (/ɔːrˈʒɑː/ or /ˈɔːrdʒiːət/) is derived from the Latin hordeaceus \"made with barley\" through the French, where barley is called orge. The Catalan word orxata has the same origin, though t",
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "cardamom": {
+    "name": "Cardamom",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "black pepper": {
+    "name": "Black Pepper",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "ricard": {
+    "name": "Ricard",
+    "description": "Ricard is a pastis, an anise and licorice-flavored aperitif, created by Paul Ricard in 1932.\r\n\r\nThe Ricard brand is the global leader in anise based alcohols, with more than 40 million litres of Ricard sold each year. Its main competitor is Pastis 51, which currently belongs to the Pernod Ricard group, and is produced and distributed by the Pernod Company.\r\n\r\nRicard is a French public company founded in 1932 in Marseille, France, by Paul Ricard. It currently belongs to the Pernod Ricard group. R",
+    "abv": null,
+    "type": "Aperitif",
+    "alcoholic": true
+  },
+  "cocoa powder": {
+    "name": "Cocoa Powder",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "pina colada mix": {
+    "name": "Pina colada mix",
+    "description": null,
+    "abv": null,
+    "type": "Mix",
+    "alcoholic": false
+  },
+  "daiquiri mix": {
+    "name": "Daiquiri Mix",
+    "description": null,
+    "abv": null,
+    "type": "Mix",
+    "alcoholic": false
+  },
+  "tomato juice": {
+    "name": "Tomato Juice",
+    "description": "Tomato juice is a juice made from tomatoes, usually used as a beverage, either plain or in cocktails such as a Bloody Mary or Michelada.\r\n\r\nIn Canada, tomato juice is unconcentrated and pasteurized, made from fine tomato pulp from ripe and whole tomatoes. The stems and skins must be removed without adding water to the final juice product. It may also contain a sweetening agent, citric acid and salt.",
+    "abv": null,
+    "type": "Soft Drink",
+    "alcoholic": false
+  },
+  "hot sauce": {
+    "name": "Hot Sauce",
+    "description": null,
+    "abv": null,
+    "type": "Sauce",
+    "alcoholic": false
+  },
+  "worcestershire sauce": {
+    "name": "Worcestershire Sauce",
+    "description": "Worcestershire sauce (/ˈwʊstərʃər/ (About this sound listen)), (Merriam-Webster: \\ˈwu̇s-tə(r)-ˌshir-, -shər- also -ˌshī(-ə)r-\\ ), frequently shortened to Worcester sauce (/ˈwʊstər/)[citation needed], is a fermented liquid condiment of complex mixture originally created by the Worcester chemists John Wheeley Lea and William Henry Perrins, who went on to form the company Lea & Perrins. The ingredients are allowed to mature for 18 months before being blended and bottled in Worcester, where the exac",
+    "abv": null,
+    "type": "Sauce",
+    "alcoholic": false
+  },
+  "soy sauce": {
+    "name": "Soy Sauce",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "white creme de menthe": {
+    "name": "White Creme de Menthe",
+    "description": "Crème de menthe (pronounced [kʁɛm də mɑ̃t], French for \"mint cream\") is a sweet, mint-flavored alcoholic beverage. It is available commercially in a colorless version (called \"white\") and a green version (colored by the mint leaves or by added coloring if made from extract instead of leaves).",
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "pepsi cola": {
+    "name": "Pepsi Cola",
+    "description": null,
+    "abv": null,
+    "type": "Cola",
+    "alcoholic": false
+  },
+  "cucumber": {
+    "name": "Cucumber",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "lemon-lime soda": {
+    "name": "Lemon-lime soda",
+    "description": null,
+    "abv": null,
+    "type": "Soda",
+    "alcoholic": false
+  },
+  "frangelico": {
+    "name": "Frangelico",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "butterscotch schnapps": {
+    "name": "Butterscotch Schnapps",
+    "description": "Schnapps (/ʃnɑːps/ or /ʃnæps/) or schnaps is a type of alcoholic beverage that may take several forms, including distilled fruit brandies, herbal liqueurs, infusions, and \"flavored liqueurs\" made by adding fruit syrups, spices, or artificial flavorings to neutral grain spirits.",
+    "abv": null,
+    "type": "Liquor",
+    "alcoholic": true
+  },
+  "jagermeister": {
+    "name": "Jagermeister",
+    "description": "Jägermeister (/ˈjeɪɡərˌmaɪstər/, YAY-gər-my-stər, German: [ˈjɛːɡɐˌmaɪstɐ], stylized Jägermeiſter) is a digestif made with 56 herbs and spices at a strength of 35% alcohol by volume (61 degrees proof, or US 70 proof). It is the flagship product of Mast-Jägermeister SE, headquartered in Wolfenbüttel, Germany.",
+    "abv": 35,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "rosemary syrup": {
+    "name": "Rosemary Syrup",
+    "description": "A sugar Syrup made with Rosemary",
+    "abv": 0,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "rosemary": {
+    "name": "Rosemary",
+    "description": "Rosmarinus officinalis, commonly known as rosemary, is a woody, perennial herb with fragrant, evergreen, needle-like leaves and white, pink, purple, or blue flowers, native to the Mediterranean region.\r\n\r\nIt is a member of the mint family Lamiaceae, which includes many other herbs. The name \"rosemary\" derives from the Latin for \"dew\" (ros) and \"sea\" (marinus), or \"dew of the sea\".[2] The plant is also sometimes called anthos, from the ancient Greek word ἄνθος, meaning \"flower\".[3] Rosemary has a",
+    "abv": null,
+    "type": "Garnish",
+    "alcoholic": false
+  },
+  "oreo cookie": {
+    "name": "Oreo cookie",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "grape soda": {
+    "name": "Grape soda",
+    "description": null,
+    "abv": null,
+    "type": "Soda",
+    "alcoholic": false
+  },
+  "orange curacao": {
+    "name": "Orange Curacao",
+    "description": null,
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "blended scotch": {
+    "name": "Blended Scotch",
+    "description": "Scotch whisky (Scottish Gaelic: uisge-beatha na h-Alba; often simply called Scotch) is malt whisky or grain whisky made in Scotland. Scotch whisky must be made in a manner specified by law.\r\n\r\nAll Scotch whisky was originally made from malted barley. Commercial distilleries began introducing whisky made from wheat and rye in the late 18th century.[2] Scotch whisky is divided into five distinct categories: single malt Scotch whisky, single grain Scotch whisky, blended malt Scotch whisky (formerly",
+    "abv": null,
+    "type": "Whiskey",
+    "alcoholic": true
+  },
+  "honey syrup": {
+    "name": "Honey syrup",
+    "description": "In cooking, a syrup or sirup (from Arabic: شراب‎; sharāb, beverage, wine and Latin: sirupus)[1] is a condiment that is a thick, viscous liquid consisting primarily of a solution of sugar in water, containing a large amount of dissolved sugars but showing little tendency to deposit crystals. Its consistency is similar to that of molasses. The viscosity arises from the multiple hydrogen bonds between the dissolved sugar, which has many hydroxyl (OH) groups, and the water.",
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "ginger syrup": {
+    "name": "Ginger Syrup",
+    "description": "In cooking, a syrup or sirup (from Arabic: شراب‎; sharāb, beverage, wine and Latin: sirupus)[1] is a condiment that is a thick, viscous liquid consisting primarily of a solution of sugar in water, containing a large amount of dissolved sugars but showing little tendency to deposit crystals. Its consistency is similar to that of molasses. The viscosity arises from the multiple hydrogen bonds between the dissolved sugar, which has many hydroxyl (OH) groups, and the water.",
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "islay single malt scotch": {
+    "name": "Islay single malt Scotch",
+    "description": "Scotch whisky (Scottish Gaelic: uisge-beatha na h-Alba; often simply called Scotch) is malt whisky or grain whisky made in Scotland. Scotch whisky must be made in a manner specified by law.\r\n\r\nAll Scotch whisky was originally made from malted barley. Commercial distilleries began introducing whisky made from wheat and rye in the late 18th century. Scotch whisky is divided into five distinct categories: single malt Scotch whisky, single grain Scotch whisky, blended malt Scotch whisky (formerly ca",
+    "abv": null,
+    "type": "Whiskey",
+    "alcoholic": true
+  },
+  "coconut milk": {
+    "name": "Coconut Milk",
+    "description": null,
+    "abv": null,
+    "type": "Milk",
+    "alcoholic": false
+  },
+  "fresh lime juice": {
+    "name": "Fresh Lime Juice",
+    "description": "A lime (from French lime, from Arabic līma, from Persian līmū, \"lemon\") is a hybrid citrus fruit, which is typically round, lime green, 3–6 centimetres (1.2–2.4 in) in diameter, and contains acidic juice vesicles.\r\n\r\nThere are several species of citrus trees whose fruits are called limes, including the Key lime (Citrus aurantifolia), Persian lime, kaffir lime, and desert lime. Limes are a rich source of vitamin C, and are often used to accent the flavours of foods and beverages. They are grown y",
+    "abv": null,
+    "type": "Fruit",
+    "alcoholic": false
+  },
+  "pink lemonade": {
+    "name": "Pink lemonade",
+    "description": null,
+    "abv": null,
+    "type": "Soda",
+    "alcoholic": false
+  },
+  "cherry liqueur": {
+    "name": "Cherry Liqueur",
+    "description": null,
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "passoa": {
+    "name": "Passoa",
+    "description": "Passoã is a passion fruit liqueur made in France, with passion fruit being the main ingredient. Created in 1986, the brand is owned by Rémy Cointreau group. It is a black bottle with a red liquid and has an alcohol volume of 14,9 to 17% depending on the country.\r\n\r\nThe original version of Passoã is made with passion fruit juice from Brazil. Passoã has also developed ready-to-serve cocktails: Tudo bom, Tropical, Red caipirinha and Zombie fire.\r\n\r\nIt was launched in 1986 in European market and in ",
+    "abv": 17,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "passion fruit syrup": {
+    "name": "Passion fruit syrup",
+    "description": null,
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "raspberry syrup": {
+    "name": "Raspberry syrup",
+    "description": null,
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "sherry": {
+    "name": "Sherry",
+    "description": "Sherry (English: /ˈʃɛri/, Spanish: Jerez [xeˈɾeθ] or [xeˈɾes]) is a fortified wine made from white grapes that are grown near the city of Jerez de la Frontera in Andalusia, Spain. Sherry is produced in a variety of styles made primarily from the Palomino grape, ranging from light versions similar to white table wines, such as Manzanilla and Fino, to darker and heavier versions that have been allowed to oxidise as they age in barrel, such as Amontillado and Oloroso. Sweet dessert wines are also m",
+    "abv": null,
+    "type": "Fortified Wine",
+    "alcoholic": true
+  },
+  "coffee brandy": {
+    "name": "Coffee Brandy",
+    "description": null,
+    "abv": null,
+    "type": "Brandy",
+    "alcoholic": true
+  },
+  "lime vodka": {
+    "name": "Lime vodka",
+    "description": null,
+    "abv": null,
+    "type": "Vodka",
+    "alcoholic": true
+  },
+  "black sambuca": {
+    "name": "Black Sambuca",
+    "description": null,
+    "abv": null,
+    "type": "Sambuca",
+    "alcoholic": true
+  },
+  "7-up": {
+    "name": "7-up",
+    "description": "7 Up (stylized as 7up outside of the U.S.) is a brand of lemon-lime flavored, non-caffeinated soft drink. The rights to the brand are held by Dr Pepper Snapple Group in the United States, and PepsiCo (or its licensees) in the rest of the world. The U.S. version of the 7 Up logo includes a red cherry between the \"7\" and \"Up\"; this red cherry has been animated and used as a mascot for the brand as Cool Spot.\r\n\r\n7 Up was created by Charles Leiper Grigg, who launched his St. Louis–based company The ",
+    "abv": null,
+    "type": "Soft Drink",
+    "alcoholic": false
+  },
+  "raspberry vodka": {
+    "name": "Raspberry Vodka",
+    "description": null,
+    "abv": null,
+    "type": "Vodka",
+    "alcoholic": true
+  },
+  "creme de banane": {
+    "name": "Creme De Banane",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "peychaud bitters": {
+    "name": "Peychaud bitters",
+    "description": null,
+    "abv": null,
+    "type": "Bitters",
+    "alcoholic": false
+  },
+  "jim beam": {
+    "name": "Jim Beam",
+    "description": null,
+    "abv": null,
+    "type": "Whiskey",
+    "alcoholic": true
+  },
+  "advocaat": {
+    "name": "Advocaat",
+    "description": "Advocaat or advocatenborrel is a traditional Dutch alcoholic beverage made from eggs, sugar and brandy.[1] The rich and creamy drink has a smooth, custard-like flavor. The typical alcohol content is generally somewhere between 14% and 20% ABV. Its contents may be a blend of egg yolks, aromatic spirits, sugar or honey, brandy, vanilla and sometimes cream (or evaporated milk). Notable makers of advocaat include Bols, DeKuyper and Verpoorten.\r\n\r\nAdvocaat is the Dutch word for \"lawyer\". As the name ",
+    "abv": 17,
+    "type": "Spirit",
+    "alcoholic": true
+  },
+  "amaro montenegro": {
+    "name": "Amaro Montenegro",
+    "description": "Amaro Montenegro is a traditional amaro distilled in Bologna, Italy. It is made from a secret blend of 40 botanicals, including vanilla, orange peels and eucalyptus. The amaro was first produced by Stanislao Cobianchi in 1885 and was originally called Elisivir Lungavita.",
+    "abv": 23,
+    "type": "Spirit",
+    "alcoholic": true
+  },
+  "ruby port": {
+    "name": "Ruby Port",
+    "description": "Ruby Port is the most extensively produced and widely available style of port wine. In fact, for many people it serves as an introduction to fortified wines in general. Unlike Vintage Port, most Ruby Port is a blend of young wines from multiple vintages. ... Until the 1960s, it simply indicated a bulk-produced port.",
+    "abv": 19,
+    "type": "Wine",
+    "alcoholic": true
+  },
+  "blood orange": {
+    "name": "Blood Orange",
+    "description": "The blood orange is a variety of orange (Citrus × sinensis) with crimson, almost blood-colored flesh.\r\n\r\nThe distinctive dark flesh color is due to the presence of anthocyanins, a family of polyphenol pigments common to many flowers and fruit, but uncommon in citrus fruits. Chrysanthemin (cyanidin 3-O-glucoside) is the main compound found in red oranges. The flesh develops its characteristic maroon color when the fruit develops with low temperatures during the night. Sometimes, dark coloring is ",
+    "abv": 0,
+    "type": "Fruit",
+    "alcoholic": false
+  },
+  "anisette": {
+    "name": "Anisette",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "cherries": {
+    "name": "Cherries",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "allspice": {
+    "name": "Allspice",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "fresca": {
+    "name": "Fresca",
+    "description": null,
+    "abv": null,
+    "type": "Soda",
+    "alcoholic": false
+  },
+  "godiva liqueur": {
+    "name": "Godiva Liqueur",
+    "description": null,
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "yukon jack": {
+    "name": "Yukon Jack",
+    "description": "Yukon Jack is a liqueur advertised as the \"Black sheep of Canadian Liquors\". It is a 100 proof (in USA) or 80 proof (in Canada) drink, made from Canadian whisky and honey. The taste is sweeter than straight whisky and bourbon, due to the honey that is added.\r\n\r\nYukon Jack was formerly imported to the USA by Heublein Inc. Heublein was later taken over by Diageo.\r\n\r\nYukon Jack has been selected as the regimental liqueur of the South Alberta Light Horse. This commemorates the stationing in Whitehor",
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "coriander": {
+    "name": "Coriander",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "rosso vermouth": {
+    "name": "Rosso Vermouth",
+    "description": "Vermouth (/vərˈmuːθ/ ver-MOOTH; also UK: /ˈvɜːrməθ/;[1][2]) is an aromatized, fortified wine flavored with various botanicals (roots, barks, flowers, seeds, herbs, and spices).\r\n\r\nThe modern versions of the beverage were first produced in the mid to late 18th century in Turin, Italy. While vermouth was traditionally used for medicinal purposes, its true claim to fame is as an aperitif, with fashionable cafes in Turin serving it to guests around the clock. However, in the late 19th century it bec",
+    "abv": null,
+    "type": "Fortified Wine",
+    "alcoholic": true
+  },
+  "melon liqueur": {
+    "name": "Melon Liqueur",
+    "description": null,
+    "abv": null,
+    "type": "Liqueur",
+    "alcoholic": true
+  },
+  "celery salt": {
+    "name": "Celery Salt",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "maple syrup": {
+    "name": "Maple syrup",
+    "description": null,
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "limeade": {
+    "name": "Limeade",
+    "description": null,
+    "abv": null,
+    "type": null,
+    "alcoholic": false
+  },
+  "white wine": {
+    "name": "White Wine",
+    "description": "Wine (from Latin vinum) is an alcoholic beverage made from grapes, generally Vitis vinifera, fermented without the addition of sugars, acids, enzymes, water, or other nutrients.\r\n\r\nYeast consumes the sugar in the grapes and converts it to ethanol and carbon dioxide. Different varieties of grapes and strains of yeasts produce different styles of wine. These variations result from the complex interactions between the biochemical development of the grape, the reactions involved in fermentation, the",
+    "abv": null,
+    "type": "Wine",
+    "alcoholic": true
+  },
+  "cream of coconut": {
+    "name": "Cream of Coconut",
+    "description": null,
+    "abv": null,
+    "type": "Cream",
+    "alcoholic": false
+  },
+  "agave syrup": {
+    "name": "Agave Syrup",
+    "description": "Agave nectar (more accurately called agave syrup) is a sweetener commercially produced from several species of agave, including Agave tequilana (blue agave) and Agave salmiana. Agave syrup is sweeter than honey and tends to be less viscous. Most agave syrup comes from Mexico and South Africa.\r\n\r\nTo produce agave syrup from the Agave americana and A. tequilana plants, the leaves are cut off the plant after it has been growing for seven to fourteen years. The juice is then extracted from the core ",
+    "abv": null,
+    "type": "Syrup",
+    "alcoholic": false
+  },
+  "root beer": {
+    "name": "Root beer",
+    "description": "Root beer is a sweet North American soft drink traditionally made using the sassafras tree Sassafras albidum (sassafras) or the vine Smilax ornata (sarsaparilla) as the primary flavor. Root beer may be alcoholic or non-alcoholic, come naturally free of caffeine or have caffeine added, and carbonated or non-carbonated. It usually has a thick, foamy head when poured. Modern, commercially produced root beer is generally sweet, foamy, carbonated, nonalcoholic, and flavoured using artificial sassafra",
+    "abv": null,
+    "type": "Soft Drink",
+    "alcoholic": false
+  },
+  "zima": {
+    "name": "Zima",
+    "description": "Zima Clearmalt is a clear, lightly carbonated alcoholic beverage, that was made and distributed by the Coors Brewing Company. Introduced in 1993, it was marketed as an alternative to beer, an example of what is now often referred to as a cooler, with 4.7%–5.4% alcohol by volume. Its production in the United States ceased in October 2008, but it is still marketed in Japan. MillerCoors announced on June 2, 2017 that there would be a limited release of Zima. It is currently for sale for a limited t",
+    "abv": null,
+    "type": "Beverage",
+    "alcoholic": true
+  },
+  "peachtree schnapps": {
+    "name": "Peachtree schnapps",
+    "description": "Schnapps (/ʃnɑːps/ or /ʃnæps/) or schnaps is a type of alcoholic beverage that may take several forms, including distilled fruit brandies, herbal liqueurs, infusions, and \"flavored liqueurs\" made by adding fruit syrups, spices, or artificial flavorings to neutral grain spirits.",
+    "abv": null,
+    "type": "Liquor",
+    "alcoholic": true
+  },
+  "gold rum": {
+    "name": "Gold rum",
+    "description": null,
+    "abv": null,
+    "type": "Rum",
+    "alcoholic": true
+  },
+  "pernod": {
+    "name": "Pernod",
+    "description": null,
+    "abv": null,
+    "type": "Liquer",
+    "alcoholic": true
+  },
+  "ouzo": {
+    "name": "Ouzo",
+    "description": "Ouzo (Greek: ούζο, IPA: [ˈuzo]) is an anise-flavoured aperitif that is widely consumed in Greece and Cyprus. Its taste is similar to other anise liquors like pastis, sambuca, arak, rakı, and mastika, that are traditionally produced and consumed in Mediterranean countries.\r\n\r\nOuzo has its roots in tsipouro, which is said to have been the work of a group of 14th-century monks on Mount Athos. One version of it was flavoured with anise. This version eventually came to be called ouzo.\r\n\r\nModern ouzo ",
+    "abv": 38,
+    "type": "Aperitif",
+    "alcoholic": true
+  }
+}

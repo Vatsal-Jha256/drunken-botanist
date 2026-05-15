@@ -1,0 +1,330 @@
+[
+  {
+    "name": "Sloe Gin",
+    "category": "spirit"
+  },
+  {
+    "name": "Vodka",
+    "category": "spirit"
+  },
+  {
+    "name": "Gin",
+    "category": "spirit"
+  },
+  {
+    "name": "Cachaça",
+    "category": "spirit"
+  },
+  {
+    "name": "Mezcal",
+    "category": "spirit"
+  },
+  {
+    "name": "Tequila",
+    "category": "spirit"
+  },
+  {
+    "name": "Pisco",
+    "category": "spirit"
+  },
+  {
+    "name": "Light Rum",
+    "category": "spirit"
+  },
+  {
+    "name": "Dark Rum",
+    "category": "spirit"
+  },
+  {
+    "name": "Spiced Rum",
+    "category": "spirit"
+  },
+  {
+    "name": "Gold Rum",
+    "category": "spirit"
+  },
+  {
+    "name": "Rum",
+    "category": "spirit"
+  },
+  {
+    "name": "Bourbon",
+    "category": "spirit"
+  },
+  {
+    "name": "Rye Whiskey",
+    "category": "spirit"
+  },
+  {
+    "name": "Scotch",
+    "category": "spirit"
+  },
+  {
+    "name": "Irish Whiskey",
+    "category": "spirit"
+  },
+  {
+    "name": "Whiskey",
+    "category": "spirit"
+  },
+  {
+    "name": "Apple Brandy",
+    "category": "spirit"
+  },
+  {
+    "name": "Cherry Liqueur",
+    "category": "liqueur"
+  },
+  {
+    "name": "Apricot Liqueur",
+    "category": "liqueur"
+  },
+  {
+    "name": "Peach Liqueur",
+    "category": "liqueur"
+  },
+  {
+    "name": "Coffee Liqueur",
+    "category": "liqueur"
+  },
+  {
+    "name": "Brandy",
+    "category": "spirit"
+  },
+  {
+    "name": "Cognac",
+    "category": "spirit"
+  },
+  {
+    "name": "Sweet Vermouth",
+    "category": "fortified"
+  },
+  {
+    "name": "Dry Vermouth",
+    "category": "fortified"
+  },
+  {
+    "name": "Vermouth",
+    "category": "fortified"
+  },
+  {
+    "name": "Lillet Blanc",
+    "category": "fortified"
+  },
+  {
+    "name": "Sherry",
+    "category": "fortified"
+  },
+  {
+    "name": "Port",
+    "category": "fortified"
+  },
+  {
+    "name": "Champagne",
+    "category": "fortified"
+  },
+  {
+    "name": "Red Wine",
+    "category": "fortified"
+  },
+  {
+    "name": "White Wine",
+    "category": "fortified"
+  },
+  {
+    "name": "Aperol",
+    "category": "liqueur"
+  },
+  {
+    "name": "Campari",
+    "category": "liqueur"
+  },
+  {
+    "name": "Triple Sec",
+    "category": "liqueur"
+  },
+  {
+    "name": "Cointreau",
+    "category": "liqueur"
+  },
+  {
+    "name": "Grand Marnier",
+    "category": "liqueur"
+  },
+  {
+    "name": "Chartreuse",
+    "category": "liqueur"
+  },
+  {
+    "name": "St. Germain",
+    "category": "liqueur"
+  },
+  {
+    "name": "Amaretto",
+    "category": "liqueur"
+  },
+  {
+    "name": "Crème de Cassis",
+    "category": "liqueur"
+  },
+  {
+    "name": "Crème de Mure",
+    "category": "liqueur"
+  },
+  {
+    "name": "Crème de Menthe",
+    "category": "liqueur"
+  },
+  {
+    "name": "Crème de Cacao",
+    "category": "liqueur"
+  },
+  {
+    "name": "Absinthe",
+    "category": "liqueur"
+  },
+  {
+    "name": "Drambuie",
+    "category": "liqueur"
+  },
+  {
+    "name": "Benedictine",
+    "category": "liqueur"
+  },
+  {
+    "name": "Falernum",
+    "category": "liqueur"
+  },
+  {
+    "name": "Amaro",
+    "category": "liqueur"
+  },
+  {
+    "name": "Angostura Bitters",
+    "category": "bitters"
+  },
+  {
+    "name": "Orange Bitters",
+    "category": "bitters"
+  },
+  {
+    "name": "Peychaud's Bitters",
+    "category": "bitters"
+  },
+  {
+    "name": "Bitters",
+    "category": "bitters"
+  },
+  {
+    "name": "Lemon Juice",
+    "category": "mixer"
+  },
+  {
+    "name": "Lime Juice",
+    "category": "mixer"
+  },
+  {
+    "name": "Orange Juice",
+    "category": "mixer"
+  },
+  {
+    "name": "Grapefruit Juice",
+    "category": "mixer"
+  },
+  {
+    "name": "Pineapple Juice",
+    "category": "mixer"
+  },
+  {
+    "name": "Cranberry Juice",
+    "category": "mixer"
+  },
+  {
+    "name": "Tomato Juice",
+    "category": "mixer"
+  },
+  {
+    "name": "Apple Juice",
+    "category": "mixer"
+  },
+  {
+    "name": "Coconut Cream",
+    "category": "other"
+  },
+  {
+    "name": "Honey Syrup",
+    "category": "syrup"
+  },
+  {
+    "name": "Agave Syrup",
+    "category": "syrup"
+  },
+  {
+    "name": "Maple Syrup",
+    "category": "syrup"
+  },
+  {
+    "name": "Grenadine",
+    "category": "syrup"
+  },
+  {
+    "name": "Orgeat",
+    "category": "syrup"
+  },
+  {
+    "name": "Ginger Syrup",
+    "category": "syrup"
+  },
+  {
+    "name": "Simple Syrup",
+    "category": "syrup"
+  },
+  {
+    "name": "Ginger Beer",
+    "category": "mixer"
+  },
+  {
+    "name": "Ginger Ale",
+    "category": "mixer"
+  },
+  {
+    "name": "Soda Water",
+    "category": "mixer"
+  },
+  {
+    "name": "Tonic Water",
+    "category": "mixer"
+  },
+  {
+    "name": "Cola",
+    "category": "mixer"
+  },
+  {
+    "name": "Lemon-Lime Soda",
+    "category": "mixer"
+  },
+  {
+    "name": "Egg White",
+    "category": "other"
+  },
+  {
+    "name": "Heavy Cream",
+    "category": "other"
+  },
+  {
+    "name": "Milk",
+    "category": "other"
+  },
+  {
+    "name": "Espresso",
+    "category": "other"
+  },
+  {
+    "name": "Salt",
+    "category": "other"
+  },
+  {
+    "name": "Sugar",
+    "category": "other"
+  }
+]

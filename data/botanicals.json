@@ -1,0 +1,702 @@
+[
+  {
+    "slug": "juniper",
+    "commonName": "Juniper",
+    "latinName": "Juniperus communis",
+    "family": "Cupressaceae",
+    "wikipedia": "Juniperus_communis",
+    "blurb": "An evergreen conifer of the northern hemisphere whose dusty blue cones — called berries by everyone except botanists — are the soul of gin. Every gin in the world must be flavored predominantly with juniper to legally bear the name, which is why a London Dry and a contemporary new-Western still share that resinous, pine-forest backbone.",
+    "spirits": ["Gin", "Sloe Gin", "Genever"],
+    "tags": ["evergreen", "resinous", "bitter"]
+  },
+  {
+    "slug": "agave",
+    "commonName": "Agave",
+    "latinName": "Agave tequilana",
+    "family": "Asparagaceae",
+    "wikipedia": "Agave_tequilana",
+    "blurb": "A spiny succulent of the Mexican highlands whose enormous heart — the piña — is roasted, crushed and fermented into mezcal and, when blue-agave-only and from Jalisco, tequila. The plant takes seven to ten years to mature, flowers once, and dies, a single botanical lifetime poured into every bottle.",
+    "spirits": ["Tequila", "Mezcal", "Agave Syrup"],
+    "tags": ["succulent", "smoky", "earthy"]
+  },
+  {
+    "slug": "sugar-cane",
+    "commonName": "Sugar Cane",
+    "latinName": "Saccharum officinarum",
+    "family": "Poaceae",
+    "wikipedia": "Saccharum_officinarum",
+    "blurb": "A towering tropical grass whose sweet stalk fed three continents and built (and destroyed) empires. Pressed, the juice ferments directly into rhum agricole and cachaça; boiled down to molasses, it becomes the base for nearly every other rum on the shelf.",
+    "spirits": ["Rum", "Dark Rum", "Light Rum", "Spiced Rum", "Cachaca", "Sugar", "Brown Sugar", "Demerara Sugar"],
+    "tags": ["grass", "tropical", "sweet"]
+  },
+  {
+    "slug": "grape",
+    "commonName": "Grape",
+    "latinName": "Vitis vinifera",
+    "family": "Vitaceae",
+    "wikipedia": "Vitis_vinifera",
+    "blurb": "The Old World wine grape — every Cabernet, Chardonnay, vermouth and Cognac on Earth descends from a single Mediterranean vine. Distilled, its wine becomes brandy; fortified, it becomes sherry and port; armagnac and pisco are simply the same fruit speaking with different accents.",
+    "spirits": ["Wine", "Red wine", "White Wine", "Champagne", "Prosecco", "Sherry", "Port", "Ruby Port", "Brandy", "Cognac", "Pisco", "Vermouth", "Dry Vermouth", "Sweet Vermouth", "Rosso Vermouth", "Lillet", "Lillet Blanc", "Dubonnet Rouge", "Grape juice"],
+    "tags": ["vine", "fermented", "fruit"]
+  },
+  {
+    "slug": "apple",
+    "commonName": "Apple",
+    "latinName": "Malus domestica",
+    "family": "Rosaceae",
+    "wikipedia": "Apple",
+    "blurb": "Probably the most genetically varied fruit on the planet — every pip in every apple grows up different from its parent — which is why apples found their truest expression in fermentation rather than the produce aisle. Cider, calvados, applejack and apple brandy are the slow, drinkable record of that diversity.",
+    "spirits": ["Cider", "Apple brandy", "Apple Brandy", "Applejack", "Apple", "Apple juice", "Apfelkorn"],
+    "tags": ["tree-fruit", "orchard", "crisp"]
+  },
+  {
+    "slug": "potato",
+    "commonName": "Potato",
+    "latinName": "Solanum tuberosum",
+    "family": "Solanaceae",
+    "wikipedia": "Potato",
+    "blurb": "An Andean tuber in the same family as deadly nightshade, capable of feeding nations and — more relevantly — of fermenting into a clean, slightly oily vodka prized in Poland and Idaho alike. Most vodka today is wheat or rye, but the potato pour still has its devotees.",
+    "spirits": ["Vodka", "Absolut Vodka", "Absolut Citron", "Absolut Kurant", "Absolut Peppar", "Cranberry vodka", "Lime vodka", "Peach Vodka", "Raspberry vodka"],
+    "tags": ["tuber", "starch", "clean"]
+  },
+  {
+    "slug": "barley",
+    "commonName": "Barley",
+    "latinName": "Hordeum vulgare",
+    "family": "Poaceae",
+    "wikipedia": "Barley",
+    "blurb": "The grain that taught humans to brew. Malted — sprouted then halted with heat — barley unlocks the sugars that yeast turns into beer and, distilled, into single malt Scotch and Irish whiskey. The peat used to dry the malt in the islands is what gives Islay drams their wet-stone, bonfire perfume.",
+    "spirits": ["Beer", "Lager", "Guinness stout", "Corona", "Scotch", "Blended Scotch", "Islay single malt Scotch", "Irish whiskey", "Irish Whiskey", "Whisky", "Drambuie"],
+    "tags": ["grain", "malt", "fermented"]
+  },
+  {
+    "slug": "rye",
+    "commonName": "Rye",
+    "latinName": "Secale cereale",
+    "family": "Poaceae",
+    "wikipedia": "Rye",
+    "blurb": "The hardy northern grain that thrives where wheat sulks. Its spicy, slightly peppery bite gives rye whiskey its backbone and is the reason a Manhattan made with bourbon and one made with rye are two different drinks.",
+    "spirits": ["Rye whiskey", "Rye Whiskey", "Whiskey", "Blended whiskey", "Crown Royal", "Canadian whisky"],
+    "tags": ["grain", "spicy", "northern"]
+  },
+  {
+    "slug": "corn",
+    "commonName": "Corn (Maize)",
+    "latinName": "Zea mays",
+    "family": "Poaceae",
+    "wikipedia": "Maize",
+    "blurb": "A grass domesticated in Mexico nine thousand years ago and now the largest crop on Earth. In a bourbon mash bill it must make up at least 51%, lending the rounded sweetness that pairs so well with a charred-oak barrel.",
+    "spirits": ["Bourbon", "Jim Beam", "Jack Daniels", "Wild Turkey", "Tennessee whiskey", "Yukon Jack"],
+    "tags": ["grain", "sweet", "American"]
+  },
+  {
+    "slug": "anise",
+    "commonName": "Anise",
+    "latinName": "Pimpinella anisum",
+    "family": "Apiaceae",
+    "wikipedia": "Anise",
+    "blurb": "The Mediterranean carrot-cousin whose seeds carry the molecule anethole — the same one that makes star anise, fennel and tarragon taste like cousins of one another. Drop ice or water into any anise spirit and the oils crash out of solution, blooming the glass milky-white.",
+    "spirits": ["Absinthe", "Anisette", "Anis", "Sambuca", "Black Sambuca", "Ouzo", "Pernod", "Ricard", "Galliano"],
+    "tags": ["seed", "licorice", "louche"]
+  },
+  {
+    "slug": "wormwood",
+    "commonName": "Wormwood",
+    "latinName": "Artemisia absinthium",
+    "family": "Asteraceae",
+    "wikipedia": "Artemisia_absinthium",
+    "blurb": "The silver-leafed Eurasian shrub that gives absinthe its name (from the Greek apsinthion) and vermouth its (from the German Wermut). Famously bitter, briefly outlawed, and — modern chemistry confirms — far less hallucinogenic than the rumors of nineteenth-century Paris suggested.",
+    "spirits": ["Absinthe", "Vermouth", "Dry Vermouth", "Sweet Vermouth", "Wormwood"],
+    "tags": ["bitter", "herb", "silver-leaf"]
+  },
+  {
+    "slug": "gentian",
+    "commonName": "Gentian",
+    "latinName": "Gentiana lutea",
+    "family": "Gentianaceae",
+    "wikipedia": "Gentiana_lutea",
+    "blurb": "An alpine wildflower with a root so bitter it became the reference standard against which all other bitterness is measured. It is the secret behind nearly every aperitif and digestif you can name — Aperol, Angostura, Suze, Campari, the whole Italian amaro shelf.",
+    "spirits": ["Aperol", "Campari", "Angostura bitters", "Angostura Bitters", "Bitters", "Orange bitters", "Orange Bitters", "Peach Bitters", "Peychaud bitters", "Amaro Montenegro"],
+    "tags": ["root", "bitter", "alpine"]
+  },
+  {
+    "slug": "hops",
+    "commonName": "Hops",
+    "latinName": "Humulus lupulus",
+    "family": "Cannabaceae",
+    "wikipedia": "Hops",
+    "blurb": "A climbing vine in the same plant family as cannabis, whose papery green cones carry the resins that make beer taste like beer. Before hops won the argument in the Middle Ages, brewers used a wilder mix of herbs called gruit — the modern IPA is, in a sense, the descendant of that fight.",
+    "spirits": ["Beer", "Lager", "Guinness stout", "Corona"],
+    "tags": ["vine", "bitter", "aromatic"]
+  },
+  {
+    "slug": "coriander",
+    "commonName": "Coriander",
+    "latinName": "Coriandrum sativum",
+    "family": "Apiaceae",
+    "wikipedia": "Coriander",
+    "blurb": "The same plant whose leaves you call cilantro produces, when it goes to seed, the warm citrus-pepper note that follows juniper in almost every gin recipe ever written. The seeds taste nothing like the leaves — a quirk of two very different essential oils riding the same stem.",
+    "spirits": ["Gin", "Genever"],
+    "tags": ["seed", "citrus", "warm"]
+  },
+  {
+    "slug": "cardamom",
+    "commonName": "Cardamom",
+    "latinName": "Elettaria cardamomum",
+    "family": "Zingiberaceae",
+    "wikipedia": "Cardamom",
+    "blurb": "Pale green pods grown in the rainforest understories of Kerala and Guatemala, hand-picked because they ripen unevenly — which is why cardamom is, by weight, the third-most-expensive spice on Earth. The pods sit in the still alongside juniper in many contemporary gins and chartreuses.",
+    "spirits": ["Gin", "Green Chartreuse", "Yellow Chartreuse"],
+    "tags": ["pod", "perfumed", "warm"]
+  },
+  {
+    "slug": "cinnamon",
+    "commonName": "Cinnamon",
+    "latinName": "Cinnamomum verum",
+    "family": "Lauraceae",
+    "wikipedia": "Cinnamon",
+    "blurb": "True cinnamon is the inner bark of a small Sri Lankan tree, rolled into the delicate quills sold as 'Ceylon cinnamon.' Most of what North Americans eat is its rougher cousin cassia. Either way, it shows up in mulled wines, spiced rums and a small fireball of a liqueur.",
+    "spirits": ["Cinnamon", "Spiced rum", "Firewater", "Hot Damn", "Goldschlager"],
+    "tags": ["bark", "warm", "sweet"]
+  },
+  {
+    "slug": "clove",
+    "commonName": "Clove",
+    "latinName": "Syzygium aromaticum",
+    "family": "Myrtaceae",
+    "wikipedia": "Clove",
+    "blurb": "The dried flower buds of an Indonesian evergreen, picked before they bloom and full of a single ferocious compound — eugenol — that simultaneously numbs the tongue and warms the throat. A clove or two transforms a punch; a few too many turn it into a dentist's office.",
+    "spirits": ["Cloves", "Bitters"],
+    "tags": ["bud", "warm", "numbing"]
+  },
+  {
+    "slug": "nutmeg",
+    "commonName": "Nutmeg",
+    "latinName": "Myristica fragrans",
+    "family": "Myristicaceae",
+    "wikipedia": "Nutmeg",
+    "blurb": "The seed of a tropical evergreen whose lacy red aril gives us mace and whose hard kernel, grated, gives us nutmeg. Mandatory on a Painkiller, a Brandy Alexander, and any eggnog with self-respect.",
+    "spirits": ["Nutmeg"],
+    "tags": ["seed", "fragrant", "warming"]
+  },
+  {
+    "slug": "vanilla",
+    "commonName": "Vanilla",
+    "latinName": "Vanilla planifolia",
+    "family": "Orchidaceae",
+    "wikipedia": "Vanilla_planifolia",
+    "blurb": "The only orchid we eat. Each pod must be hand-pollinated (its native bee lives only in Mexico) and cured for months — the reason real vanilla costs what it costs. It hides in the background of Galliano, Tuaca, Licor 43 and almost every cream liqueur.",
+    "spirits": ["Vanilla", "Vanilla extract", "Vanilla syrup", "Galliano", "Tuaca", "Licor 43"],
+    "tags": ["orchid", "sweet", "floral"]
+  },
+  {
+    "slug": "cacao",
+    "commonName": "Cacao",
+    "latinName": "Theobroma cacao",
+    "family": "Malvaceae",
+    "wikipedia": "Theobroma_cacao",
+    "blurb": "A small Amazonian tree whose Latin name means 'food of the gods,' bearing fruits the size of footballs full of seeds that ferment, dry, roast, and become chocolate. In a bar, those same beans steep into crème de cacao and dark mole bitters.",
+    "spirits": ["Creme de Cacao", "Chocolate liqueur", "Chocolate", "Chocolate syrup", "Cocoa powder", "Godiva liqueur"],
+    "tags": ["tree", "fermented", "rich"]
+  },
+  {
+    "slug": "coffee",
+    "commonName": "Coffee",
+    "latinName": "Coffea arabica",
+    "family": "Rubiaceae",
+    "wikipedia": "Coffea_arabica",
+    "blurb": "An Ethiopian shrub whose red cherries hide twin green seeds that, roasted and ground, fuel most of the planet. Cold-brewed, sweetened and rummed up, they become Kahlúa, Tia Maria, and every bartender's favorite reason to keep an espresso machine on the back bar.",
+    "spirits": ["Coffee", "Espresso", "Kahlua", "Tia maria", "Coffee liqueur", "Coffee brandy"],
+    "tags": ["seed", "roasted", "bitter"]
+  },
+  {
+    "slug": "tea",
+    "commonName": "Tea",
+    "latinName": "Camellia sinensis",
+    "family": "Theaceae",
+    "wikipedia": "Camellia_sinensis",
+    "blurb": "Green tea, white, oolong, black, pu-erh — all of it is the same plant, an evergreen camellia, differentiated only by how the leaves are processed after picking. Tea infusions show up everywhere modern bartenders want tannin without the trouble of red wine.",
+    "spirits": ["Tea", "Iced tea"],
+    "tags": ["leaf", "tannic", "infusion"]
+  },
+  {
+    "slug": "quinine",
+    "commonName": "Cinchona (Quinine)",
+    "latinName": "Cinchona officinalis",
+    "family": "Rubiaceae",
+    "wikipedia": "Cinchona",
+    "blurb": "An Andean tree whose bark contains quinine, the first effective treatment for malaria — and the bitterness in every tonic water. British officers in colonial India sweetened their daily dose with sugar, lime, and a generous splash of gin, and one of the world's great cocktails was born by accident.",
+    "spirits": ["Tonic water", "Tonic Water", "Schweppes Russchian", "Lillet", "Lillet Blanc"],
+    "tags": ["bark", "bitter", "medicinal"]
+  },
+  {
+    "slug": "elderflower",
+    "commonName": "Elderflower",
+    "latinName": "Sambucus nigra",
+    "family": "Adoxaceae",
+    "wikipedia": "Sambucus_nigra",
+    "blurb": "The lacy cream-white blooms of a European hedgerow shrub, picked for about two weeks each summer. Macerate them in neutral spirit and you get the elderflower liqueur (St. Germain et al.) that briefly took over every cocktail menu in the 2010s — for good reason.",
+    "spirits": ["St. Germain", "Elderflower cordial"],
+    "tags": ["flower", "floral", "honeyed"]
+  },
+  {
+    "slug": "lavender",
+    "commonName": "Lavender",
+    "latinName": "Lavandula angustifolia",
+    "family": "Lamiaceae",
+    "wikipedia": "Lavandula_angustifolia",
+    "blurb": "A Mediterranean mint relative whose silver-purple spikes carry essential oils so volatile a single sprig can perfume an entire glass. Used sparingly it's transcendent; used heavily it tastes, alarmingly, of soap.",
+    "spirits": ["Lavender"],
+    "tags": ["flower", "perfumed", "mint-cousin"]
+  },
+  {
+    "slug": "mint",
+    "commonName": "Mint",
+    "latinName": "Mentha",
+    "family": "Lamiaceae",
+    "wikipedia": "Mentha",
+    "blurb": "Spearmint for juleps and mojitos; peppermint for crème de menthe and grasshoppers. The hard-to-kill genus that gives most of the planet's bartenders something fresh to slap.",
+    "spirits": ["Mint", "Mint syrup", "Green Creme de Menthe", "White Creme de Menthe"],
+    "tags": ["leaf", "cool", "herb"]
+  },
+  {
+    "slug": "rose",
+    "commonName": "Rose",
+    "latinName": "Rosa damascena",
+    "family": "Rosaceae",
+    "wikipedia": "Rosa_damascena",
+    "blurb": "The Damask rose, grown commercially in Bulgaria and Iran for an essential oil so precious it is bartered like silver. A bare splash of rosewater turns a gin sour into something out of a Persian garden.",
+    "spirits": ["Rose", "Sirup of roses"],
+    "tags": ["flower", "perfumed", "delicate"]
+  },
+  {
+    "slug": "hibiscus",
+    "commonName": "Hibiscus",
+    "latinName": "Hibiscus sabdariffa",
+    "family": "Malvaceae",
+    "wikipedia": "Roselle_(plant)",
+    "blurb": "Not the showy garden hibiscus but its scrappier cousin — roselle — whose ruby calyces dry to a deep crimson and brew into agua de jamaica, sorrel, karkadé. Tart, brilliant red, and increasingly muddled into modern margaritas.",
+    "spirits": [],
+    "tags": ["flower", "tart", "ruby"]
+  },
+  {
+    "slug": "ginger",
+    "commonName": "Ginger",
+    "latinName": "Zingiber officinale",
+    "family": "Zingiberaceae",
+    "wikipedia": "Ginger",
+    "blurb": "A tropical rhizome whose heat comes from gingerols, the same family of molecules that makes chili peppers bite. Old-fashioned ginger beer is genuinely fermented; the modern stuff is mostly just spiced soda — but either way, it makes a Moscow Mule.",
+    "spirits": ["Ginger", "Ginger ale", "Ginger Beer", "Ginger Syrup", "Domaine de Canton"],
+    "tags": ["rhizome", "warm", "spicy"]
+  },
+  {
+    "slug": "lemon",
+    "commonName": "Lemon",
+    "latinName": "Citrus limon",
+    "family": "Rutaceae",
+    "wikipedia": "Lemon",
+    "blurb": "A hybrid citrus probably born somewhere in northeastern India between citron and bitter orange. Today the workhorse of every sour, every twist, every cleansing finish a cocktail ever needs.",
+    "spirits": ["Lemon", "lemon", "Lemon juice", "lemon juice", "Lemon Juice", "Fresh Lemon Juice", "Lemon peel", "Lemon Peel", "Limoncello", "Bitter lemon", "Lemonade"],
+    "tags": ["citrus", "bright", "acid"]
+  },
+  {
+    "slug": "lime",
+    "commonName": "Lime",
+    "latinName": "Citrus aurantiifolia",
+    "family": "Rutaceae",
+    "wikipedia": "Lime_(fruit)",
+    "blurb": "The Key lime — smaller, more aromatic, and the historical 'lime' of the British navy ration that gave English sailors the nickname limeys. Persian limes (the bigger, seedless supermarket kind) do most of the modern work, but a daiquiri made with Key limes is a revelation.",
+    "spirits": ["Lime", "Lime juice", "Lime Juice", "Fresh Lime Juice", "Lime peel", "Limeade"],
+    "tags": ["citrus", "tart", "tropical"]
+  },
+  {
+    "slug": "orange",
+    "commonName": "Orange",
+    "latinName": "Citrus × sinensis",
+    "family": "Rutaceae",
+    "wikipedia": "Orange_(fruit)",
+    "blurb": "The sweet orange of breakfast tables and the bitter Seville of marmalade are different species; both feed the bar. Bitter orange peel goes into triple sec, Cointreau, curaçao, Grand Marnier and Aperol; sweet orange juice goes into everything else.",
+    "spirits": ["Orange", "Orange juice", "Orange Juice", "Orange peel", "Orange Peel", "Orange bitters", "Orange Bitters", "Triple sec", "Triple Sec", "Cointreau", "Grand Marnier", "Blue Curacao", "Orange Curacao", "Aperol", "Blood Orange"],
+    "tags": ["citrus", "sweet", "bitter-peel"]
+  },
+  {
+    "slug": "cherry",
+    "commonName": "Cherry",
+    "latinName": "Prunus cerasus",
+    "family": "Rosaceae",
+    "wikipedia": "Cherry",
+    "blurb": "The sour Marasca cherry of Dalmatia is distilled (pits and all) into maraschino — kirsch's softer Italian cousin. The lurid red 'maraschino cherries' floating in your average Manhattan are sadly no relation; they're food-dyed Royal Annes that got lost on the way to a sundae.",
+    "spirits": ["Cherry", "Cherries", "Cherry brandy", "Cherry liqueur", "Cherry Heering", "Cherry Juice", "Maraschino cherry", "Maraschino Cherry", "maraschino liqueur", "Maraschino liqueur", "Maraschino Liqueur"],
+    "tags": ["stone-fruit", "tart", "sweet"]
+  },
+  {
+    "slug": "cucumber",
+    "commonName": "Cucumber",
+    "latinName": "Cucumis sativus",
+    "family": "Cucurbitaceae",
+    "wikipedia": "Cucumber",
+    "blurb": "Technically a fruit, traditionally a vegetable, suddenly (since Hendrick's) a cocktail garnish. The compound responsible for that cool melon-rind aroma is the same one mosquitoes use to find you, which is one of those facts you don't have to share at the bar.",
+    "spirits": ["Cucumber"],
+    "tags": ["fruit", "cooling", "fresh"]
+  },
+  {
+    "slug": "sloe",
+    "commonName": "Sloe (Blackthorn)",
+    "latinName": "Prunus spinosa",
+    "family": "Rosaceae",
+    "wikipedia": "Prunus_spinosa",
+    "blurb": "The wild plum of English hedgerows, bitter enough to pucker a stone. Foragers pick them after the first frost, prick each one with a thorn, and steep them in gin and sugar for the deep ruby liqueur called sloe gin.",
+    "spirits": ["Sloe gin"],
+    "tags": ["stone-fruit", "wild", "tart"]
+  },
+  {
+    "slug": "blackberry",
+    "commonName": "Blackberry",
+    "latinName": "Rubus fruticosus",
+    "family": "Rosaceae",
+    "wikipedia": "Blackberry",
+    "blurb": "A thorny, sprawling bramble that produces, depending on your latitude, the best free fruit of late summer. Distilled it becomes crème de mûre, the dark velvet base of a Bramble.",
+    "spirits": ["Blackberries", "Blackberry brandy", "Creme de Mure", "Chambord raspberry liqueur"],
+    "tags": ["berry", "wild", "dark"]
+  },
+  {
+    "slug": "oak",
+    "commonName": "Oak",
+    "latinName": "Quercus alba",
+    "family": "Fagaceae",
+    "wikipedia": "Quercus_alba",
+    "blurb": "The quiet tree behind aged spirits. White oak barrels give whiskey, rum, brandy, and tequila their vanilla, coconut, toast, smoke, and tannin, turning raw distillate into something that tastes like time.",
+    "spirits": ["Bourbon", "Scotch", "Whisky", "Whiskey", "Rum", "Brandy", "Cognac", "Tequila"],
+    "tags": ["wood", "tannin", "aged"]
+  },
+  {
+    "slug": "rice",
+    "commonName": "Rice",
+    "latinName": "Oryza sativa",
+    "family": "Poaceae",
+    "wikipedia": "Rice",
+    "blurb": "A wetland grass that feeds half the planet and ferments into sake, shochu, and rice-based spirits. Koji does the work malt usually does, unlocking starches into sugars for a cleaner, softer grain character.",
+    "spirits": ["Sake", "Shochu"],
+    "tags": ["grain", "koji", "fermented"]
+  },
+  {
+    "slug": "wheat",
+    "commonName": "Wheat",
+    "latinName": "Triticum aestivum",
+    "family": "Poaceae",
+    "wikipedia": "Common_wheat",
+    "blurb": "The soft side of the grain shelf. Wheat lends vodka a faint bread-dough roundness and gives wheated bourbon a gentler profile than rye-heavy whiskey, with less pepper and more pastry.",
+    "spirits": ["Vodka", "Bourbon", "Whiskey"],
+    "tags": ["grain", "soft", "starch"]
+  },
+  {
+    "slug": "banana",
+    "commonName": "Banana",
+    "latinName": "Musa acuminata",
+    "family": "Musaceae",
+    "wikipedia": "Musa_acuminata",
+    "blurb": "A giant herb masquerading as a tree, with fruit built for flamboyance. Banana liqueurs can go cartoonish fast, but in careful hands they add tropical perfume, creamy texture, and a hint of clove-like spice.",
+    "spirits": ["Banana", "Banana liqueur"],
+    "tags": ["fruit", "tropical", "creamy"]
+  },
+  {
+    "slug": "pineapple",
+    "commonName": "Pineapple",
+    "latinName": "Ananas comosus",
+    "family": "Bromeliaceae",
+    "wikipedia": "Pineapple",
+    "blurb": "A bromeliad with a hundred flowers fused into one aromatic fruit. Pineapple brings acid, sugar, foam, and tropical swagger, which is why tiki drinks treat it less as juice and more as architecture.",
+    "spirits": ["Pineapple", "pineapple juice", "Pineapple juice", "Pineapple Juice", "Pineapple Syrup"],
+    "tags": ["fruit", "tropical", "acid"]
+  },
+  {
+    "slug": "coconut",
+    "commonName": "Coconut",
+    "latinName": "Cocos nucifera",
+    "family": "Arecaceae",
+    "wikipedia": "Coconut",
+    "blurb": "A palm seed that travels by sea and tastes like shade. Coconut cream, milk, syrup, and liqueur bring fat and fragrance to rum drinks, softening citrus and making crushed ice feel luxurious.",
+    "spirits": ["Coconut Liqueur", "Coconut milk", "Coconut syrup", "Cream of coconut", "Malibu rum"],
+    "tags": ["palm", "creamy", "tropical"]
+  },
+  {
+    "slug": "pomegranate",
+    "commonName": "Pomegranate",
+    "latinName": "Punica granatum",
+    "family": "Lythraceae",
+    "wikipedia": "Pomegranate",
+    "blurb": "A leathery fruit full of ruby arils, tart juice, and old-world symbolism. Real grenadine begins here, not in a bottle of red corn syrup, giving drinks color, acidity, and a dusky berry depth.",
+    "spirits": ["Pomegranate juice", "Grenadine"],
+    "tags": ["fruit", "tart", "ruby"]
+  },
+  {
+    "slug": "strawberry",
+    "commonName": "Strawberry",
+    "latinName": "Fragaria × ananassa",
+    "family": "Rosaceae",
+    "wikipedia": "Garden_strawberry",
+    "blurb": "A low-growing rose relative whose scent does most of the work before sweetness even arrives. In drinks it is fragile and seasonal, best with citrus, bubbles, or the faint bitterness of aperitifs.",
+    "spirits": ["Strawberry schnapps", "Strawberries"],
+    "tags": ["berry", "summer", "fragile"]
+  },
+  {
+    "slug": "raspberry",
+    "commonName": "Raspberry",
+    "latinName": "Rubus idaeus",
+    "family": "Rosaceae",
+    "wikipedia": "Raspberry",
+    "blurb": "A bramble fruit with perfume, acidity, and a seedy snap. Raspberry syrup and liqueurs can make gin and sparkling wine feel suddenly Victorian, or give tequila and rum a bright red edge.",
+    "spirits": ["Chambord raspberry liqueur", "Raspberry Liqueur", "Raspberry syrup", "Raspberry vodka"],
+    "tags": ["berry", "tart", "perfumed"]
+  },
+  {
+    "slug": "cranberry",
+    "commonName": "Cranberry",
+    "latinName": "Vaccinium macrocarpon",
+    "family": "Ericaceae",
+    "wikipedia": "Vaccinium_macrocarpon",
+    "blurb": "A bog-loving North American berry too tart to eat casually but perfect for the bar. Cranberry juice adds color and sharpness without taking over, which explains its long reign in vodka drinks.",
+    "spirits": ["Cranberry juice", "Cranberry Juice", "Cranberry vodka"],
+    "tags": ["berry", "bog", "tart"]
+  },
+  {
+    "slug": "grapefruit",
+    "commonName": "Grapefruit",
+    "latinName": "Citrus × paradisi",
+    "family": "Rutaceae",
+    "wikipedia": "Grapefruit",
+    "blurb": "A citrus hybrid with sweetness, acid, sulfurous snap, and quinine-like bitterness in the peel. It makes tequila taste brighter, gin taste colder, and soda highballs feel grown up.",
+    "spirits": ["Grapefruit juice", "Grapefruit Juice"],
+    "tags": ["citrus", "bitter", "bright"]
+  },
+  {
+    "slug": "peach",
+    "commonName": "Peach",
+    "latinName": "Prunus persica",
+    "family": "Rosaceae",
+    "wikipedia": "Peach",
+    "blurb": "A fuzzy stone fruit whose aroma leans floral before it turns jammy. Peach brandy, schnapps, bitters, and nectar have made it a Southern porch ingredient and a guilty pleasure of disco-era drinks.",
+    "spirits": ["Peach Bitters", "Peach brandy", "Peach nectar", "Peach schnapps", "Peach Vodka", "Peachtree schnapps"],
+    "tags": ["stone-fruit", "floral", "soft"]
+  },
+  {
+    "slug": "apricot",
+    "commonName": "Apricot",
+    "latinName": "Prunus armeniaca",
+    "family": "Rosaceae",
+    "wikipedia": "Apricot",
+    "blurb": "A small stone fruit with almond hiding in the pit and sunlight in the flesh. Apricot brandy is one of the great old cocktail modifiers, warm enough for whiskey and bright enough for gin.",
+    "spirits": ["Apricot brandy", "Apricot Brandy", "Apricot Nectar"],
+    "tags": ["stone-fruit", "golden", "liqueur"]
+  },
+  {
+    "slug": "plum",
+    "commonName": "Plum",
+    "latinName": "Prunus domestica",
+    "family": "Rosaceae",
+    "wikipedia": "Plum",
+    "blurb": "A shape-shifting stone fruit that becomes damson gin, slivovitz, umeshu, and preserves. Plums bring tannin and depth as much as sweetness, which makes them feel darker than most summer fruit.",
+    "spirits": ["Plum", "Slivovitz", "Umeshu"],
+    "tags": ["stone-fruit", "dark", "tannic"]
+  },
+  {
+    "slug": "almond",
+    "commonName": "Almond",
+    "latinName": "Prunus dulcis",
+    "family": "Rosaceae",
+    "wikipedia": "Almond",
+    "blurb": "A peach relative grown for its seed rather than its flesh. Orgeat turns almonds into a silky syrup that binds citrus and rum, while bitter almond notes haunt maraschino, amaretto, and stone-fruit pits.",
+    "spirits": ["Almond flavoring", "Orgeat syrup", "Amaretto"],
+    "tags": ["seed", "nutty", "silky"]
+  },
+  {
+    "slug": "hazelnut",
+    "commonName": "Hazelnut",
+    "latinName": "Corylus avellana",
+    "family": "Betulaceae",
+    "wikipedia": "Hazelnut",
+    "blurb": "A woodland shrub whose nuts roast into praline, gianduja, and dessert liqueurs. In cocktails hazelnut reads round and brown, a bridge between coffee, cream, chocolate, and aged spirits.",
+    "spirits": ["Frangelico"],
+    "tags": ["nut", "roasted", "praline"]
+  },
+  {
+    "slug": "walnut",
+    "commonName": "Walnut",
+    "latinName": "Juglans regia",
+    "family": "Juglandaceae",
+    "wikipedia": "Juglans_regia",
+    "blurb": "A broad-canopied tree with tannic green husks and oily, bittersweet nuts. Nocino captures immature walnuts at their most mysterious, turning them into a dark liqueur that tastes like spice, bark, and winter.",
+    "spirits": ["Nocino"],
+    "tags": ["nut", "bitter", "dark"]
+  },
+  {
+    "slug": "kola",
+    "commonName": "Kola Nut",
+    "latinName": "Cola acuminata",
+    "family": "Malvaceae",
+    "wikipedia": "Kola_nut",
+    "blurb": "A caffeine-rich West African seed that helped define cola flavor before industrial formulas took over. In the glass it suggests spice, bitterness, citrus oils, and the snap of an old-fashioned soda fountain.",
+    "spirits": ["Coca-Cola", "Pepsi Cola", "Cola"],
+    "tags": ["seed", "caffeinated", "bitter"]
+  },
+  {
+    "slug": "angelica",
+    "commonName": "Angelica",
+    "latinName": "Angelica archangelica",
+    "family": "Apiaceae",
+    "wikipedia": "Angelica_archangelica",
+    "blurb": "A tall, hollow-stemmed herb with roots that smell musky, green, and faintly medicinal. Gin makers use angelica less for show than structure: it anchors brighter botanicals and gives the spirit a dry finish.",
+    "spirits": ["Gin", "Chartreuse"],
+    "tags": ["root", "musky", "gin"]
+  },
+  {
+    "slug": "orris",
+    "commonName": "Orris",
+    "latinName": "Iris germanica",
+    "family": "Iridaceae",
+    "wikipedia": "Orris_root",
+    "blurb": "The aged rhizome of certain irises, dried until it smells like violet, powder, and old paper. Distillers use it as a fixative, helping fragile floral aromas linger instead of vanishing.",
+    "spirits": ["Gin", "Violet liqueur"],
+    "tags": ["rhizome", "floral", "fixative"]
+  },
+  {
+    "slug": "licorice",
+    "commonName": "Licorice",
+    "latinName": "Glycyrrhiza glabra",
+    "family": "Fabaceae",
+    "wikipedia": "Liquorice",
+    "blurb": "A legume whose roots are intensely sweet without tasting sugary. Licorice gives herbal liqueurs, bitters, and anise spirits body and persistence, stretching flavors across the palate.",
+    "spirits": ["Absinthe", "Anisette", "Sambuca", "Ouzo", "Pernod", "Ricard"],
+    "tags": ["root", "sweet", "anise"]
+  },
+  {
+    "slug": "fennel",
+    "commonName": "Fennel",
+    "latinName": "Foeniculum vulgare",
+    "family": "Apiaceae",
+    "wikipedia": "Fennel",
+    "blurb": "A feathery Mediterranean herb whose seeds share anethole with anise and star anise. It softens licorice flavors, making absinthe and pastis feel rounder and more herbal.",
+    "spirits": ["Absinthe", "Pastis", "Pernod", "Ricard"],
+    "tags": ["seed", "licorice", "herbal"]
+  },
+  {
+    "slug": "basil",
+    "commonName": "Basil",
+    "latinName": "Ocimum basilicum",
+    "family": "Lamiaceae",
+    "wikipedia": "Basil",
+    "blurb": "A tender mint-family herb with clove, pepper, and anise hiding under its green sweetness. It turns gin, strawberries, tomatoes, and citrus into something that tastes picked rather than poured.",
+    "spirits": ["Basil"],
+    "tags": ["leaf", "green", "peppery"]
+  },
+  {
+    "slug": "rosemary",
+    "commonName": "Rosemary",
+    "latinName": "Salvia rosmarinus",
+    "family": "Lamiaceae",
+    "wikipedia": "Rosemary",
+    "blurb": "A resinous Mediterranean shrub whose needle leaves smell of pine, lemon, and roast kitchens. A single sprig can steer gin, grapefruit, tequila, or whiskey toward a dry herbal finish.",
+    "spirits": ["Rosemary", "Rosemary Syrup"],
+    "tags": ["leaf", "resinous", "piney"]
+  },
+  {
+    "slug": "thyme",
+    "commonName": "Thyme",
+    "latinName": "Thymus vulgaris",
+    "family": "Lamiaceae",
+    "wikipedia": "Thyme",
+    "blurb": "A small-leaved herb with a dry, savory perfume. Thyme is less showy than mint or basil, but it gives citrus drinks a garden edge and makes honey syrups feel deeper.",
+    "spirits": ["Thyme"],
+    "tags": ["leaf", "savory", "garden"]
+  },
+  {
+    "slug": "sage",
+    "commonName": "Sage",
+    "latinName": "Salvia officinalis",
+    "family": "Lamiaceae",
+    "wikipedia": "Salvia_officinalis",
+    "blurb": "A gray-green Mediterranean herb with camphor, eucalyptus, and pepper in its leaves. Used carefully, sage makes brown spirits and citrus taste like autumn without becoming soup.",
+    "spirits": ["Sage"],
+    "tags": ["leaf", "savory", "camphor"]
+  },
+  {
+    "slug": "chamomile",
+    "commonName": "Chamomile",
+    "latinName": "Matricaria chamomilla",
+    "family": "Asteraceae",
+    "wikipedia": "Matricaria_chamomilla",
+    "blurb": "A small daisy with apple-hay perfume and a soft bitter finish. Chamomile infusions and syrups can make gin, honey, lemon, and sparkling wine feel calmer without turning sleepy.",
+    "spirits": ["Chamomile"],
+    "tags": ["flower", "honeyed", "soft"]
+  },
+  {
+    "slug": "jasmine",
+    "commonName": "Jasmine",
+    "latinName": "Jasminum officinale",
+    "family": "Oleaceae",
+    "wikipedia": "Jasminum_officinale",
+    "blurb": "A climbing vine whose white flowers are almost indecently fragrant. Jasmine belongs in tiny amounts: enough to lift tea, gin, or sparkling wine, not enough to hijack the room.",
+    "spirits": ["Jasmine"],
+    "tags": ["flower", "perfumed", "delicate"]
+  },
+  {
+    "slug": "violet",
+    "commonName": "Violet",
+    "latinName": "Viola odorata",
+    "family": "Violaceae",
+    "wikipedia": "Viola_odorata",
+    "blurb": "A low spring flower famous for an aroma that vanishes and returns as your nose tires. Crème de violette gives the Aviation its pale sky color and its fragile, old-fashioned perfume.",
+    "spirits": ["Creme de Violette", "Violet liqueur"],
+    "tags": ["flower", "floral", "powdery"]
+  },
+  {
+    "slug": "saffron",
+    "commonName": "Saffron",
+    "latinName": "Crocus sativus",
+    "family": "Iridaceae",
+    "wikipedia": "Saffron",
+    "blurb": "The hand-picked stigmas of a crocus, dried into the world's most theatrical spice. Saffron brings hay, honey, iodine, and gold, explaining its quiet role in some of the great herbal liqueurs.",
+    "spirits": ["Yellow Chartreuse", "Strega"],
+    "tags": ["stigma", "golden", "spice"]
+  },
+  {
+    "slug": "allspice",
+    "commonName": "Allspice",
+    "latinName": "Pimenta dioica",
+    "family": "Myrtaceae",
+    "wikipedia": "Allspice",
+    "blurb": "A Caribbean tree whose dried berries seem to contain cinnamon, clove, nutmeg, and pepper all at once. Pimento dram is allspice in liqueur form, a deep engine for tiki and winter drinks.",
+    "spirits": ["Allspice", "Pimento dram"],
+    "tags": ["berry", "warm", "spice"]
+  },
+  {
+    "slug": "pepper",
+    "commonName": "Black Pepper",
+    "latinName": "Piper nigrum",
+    "family": "Piperaceae",
+    "wikipedia": "Black_pepper",
+    "blurb": "A tropical vine whose dried berries became the world's default spice. In drinks, pepper can sharpen strawberries, gin, tomatoes, and citrus, adding heat without turning the glass into hot sauce.",
+    "spirits": ["Black pepper", "Pepper"],
+    "tags": ["berry", "spicy", "dry"]
+  },
+  {
+    "slug": "celery",
+    "commonName": "Celery",
+    "latinName": "Apium graveolens",
+    "family": "Apiaceae",
+    "wikipedia": "Celery",
+    "blurb": "A marsh plant domesticated into crisp stalks, bitter leaves, and mineral seeds. Celery salt and bitters make tomato drinks taste colder, greener, and more savory.",
+    "spirits": ["Celery salt", "Celery bitters"],
+    "tags": ["stalk", "green", "savory"]
+  },
+  {
+    "slug": "tomato",
+    "commonName": "Tomato",
+    "latinName": "Solanum lycopersicum",
+    "family": "Solanaceae",
+    "wikipedia": "Tomato",
+    "blurb": "A nightshade fruit that dragged brunch cocktails into the vegetable garden. Tomato juice brings glutamate, acidity, and body, giving vodka and tequila a savory place to hide.",
+    "spirits": ["Tomato juice", "Tomato Juice"],
+    "tags": ["fruit", "savory", "acid"]
+  }
+]
